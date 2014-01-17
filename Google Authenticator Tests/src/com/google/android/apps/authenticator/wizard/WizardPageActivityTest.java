@@ -19,7 +19,7 @@ package com.google.android.apps.authenticator.wizard;
 import static com.google.testing.littlemock.LittleMock.mock;
 import static com.google.testing.littlemock.LittleMock.verify;
 
-import com.dlka.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2donate2.R;
 import com.google.android.apps.authenticator.AuthenticatorActivity;
 import com.google.android.apps.authenticator.TestUtilities;
 import com.google.android.apps.authenticator.testability.DependencyInjector;

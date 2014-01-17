@@ -16,9 +16,7 @@
 
 package com.google.android.apps.authenticator.wizard;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.AuthenticatorActivity;
-import com.google.android.apps.authenticator.testability.TestableActivity;
+import java.io.Serializable;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -28,7 +26,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
-import java.io.Serializable;
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.AuthenticatorActivity;
+import com.google.android.apps.authenticator.testability.TestableActivity;
 
 /**
  * Base class for a page of a wizard.

@@ -16,15 +16,15 @@
 
 package com.google.android.apps.authenticator.timesync;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.testability.DependencyInjector;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
+
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.testability.DependencyInjector;
 
 /**
  * Activity that adjusts the application's internal system time offset (for the purposes of

@@ -18,7 +18,7 @@ package com.google.android.apps.authenticator;
 
 import static com.google.testing.littlemock.LittleMock.initMocks;
 
-import com.dlka.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2donate2.R;
 import com.google.android.apps.authenticator.AccountDb.OtpType;
 import com.google.android.apps.authenticator.dataimport.ImportController;
 import com.google.android.apps.authenticator.testability.DependencyInjector;

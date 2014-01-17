@@ -16,11 +16,11 @@
 
 package com.google.android.apps.authenticator;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.testability.TestablePreferenceActivity;
-
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.os.Bundle;
+
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.testability.TestablePreferenceActivity;
 
 /**
  * Activity that displays the "About" preferences.

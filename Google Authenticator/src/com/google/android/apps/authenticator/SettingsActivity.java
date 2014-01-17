@@ -16,10 +16,10 @@
 
 package com.google.android.apps.authenticator;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.testability.TestablePreferenceActivity;
-
 import android.os.Bundle;
+
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.testability.TestablePreferenceActivity;
 
 /**
  * Top-level preferences Activity.

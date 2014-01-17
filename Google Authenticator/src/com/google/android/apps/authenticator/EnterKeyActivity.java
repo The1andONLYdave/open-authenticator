@@ -16,10 +16,7 @@
 
 package com.google.android.apps.authenticator;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.AccountDb.OtpType;
-import com.google.android.apps.authenticator.Base32String.DecodingException;
-import com.google.android.apps.authenticator.wizard.WizardPageActivity;
+import java.io.Serializable;
 
 import android.os.Bundle;
 import android.text.Editable;
@@ -28,7 +25,10 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.Spinner;
 
-import java.io.Serializable;
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.AccountDb.OtpType;
+import com.google.android.apps.authenticator.Base32String.DecodingException;
+import com.google.android.apps.authenticator.wizard.WizardPageActivity;
 
 /**
  * The activity that lets the user manually add an account by entering its name, key, and type

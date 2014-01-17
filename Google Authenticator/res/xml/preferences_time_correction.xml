@@ -22,7 +22,7 @@
     android:persistent="false">
     <intent
       android:targetPackage="com.dlka.android.apps.authenticator2"
-      android:targetClass="com.mikedg.android.apps.authenticator.timesync.SyncNowActivity">
+      android:targetClass="com.dlka.android.apps.authenticator.timesync.SyncNowActivity">
     </intent>
   </PreferenceScreen>
   <PreferenceScreen
@@ -30,8 +30,8 @@
     android:title="@string/timesync_about_feature_preference_title"
     android:persistent="false">
     <intent
-      android:targetPackage="com.mikedge.android.apps.authenticator2"
-      android:targetClass="com.mikedg.android.apps.authenticator.timesync.AboutActivity">
+      android:targetPackage="com.dlka.android.apps.authenticator2"
+      android:targetClass="com.dlka.android.apps.authenticator.timesync.AboutActivity">
     </intent>
   </PreferenceScreen>
 </PreferenceScreen>

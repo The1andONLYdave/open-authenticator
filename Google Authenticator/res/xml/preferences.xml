@@ -23,11 +23,11 @@
     android:persistent="false">
     <intent
       android:targetPackage="com.dlka.android.apps.authenticator2"
-      android:targetClass="com.mikedg.android.apps.authenticator.timesync.SettingsTimeCorrectionActivity">
+      android:targetClass="com.dlka.android.apps.authenticator.timesync.SettingsTimeCorrectionActivity">
     </intent>
   </PreferenceScreen>
 
-  <PreferenceScreen
+  <!--  <PreferenceScreen
     android:key="about"
     android:title="@string/about_preference_title"
     android:persistent="false">
@@ -35,5 +35,5 @@
       android:targetPackage="com.dlka.android.apps.authenticator2"
       android:targetClass="com.mikedg.android.apps.authenticator.SettingsAboutActivity">
     </intent>
-  </PreferenceScreen>
+  </PreferenceScreen> -->
 </PreferenceScreen>

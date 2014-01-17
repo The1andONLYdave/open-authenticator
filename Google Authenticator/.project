@@ -30,4 +30,11 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>res/drawable-nodpi/icon_extension48.png</name>
+			<type>1</type>
+			<location>/home/dave/workspace/Google Authenticator/res/drawable-nodpi/icon_extension48.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>

@@ -17,7 +17,7 @@
 <!-- With the exception of UserRowView, this file should be kept in sync
 with user_row_legacy.xml -->
 <com.google.android.apps.authenticator.UserRowView xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:app="http://schemas.android.com/apk/res/com.dlka.android.apps.authenticator2"
+  xmlns:app="http://schemas.android.com/apk/res/com.dlka.android.apps.authenticator2donate"
   android:orientation="vertical" android:layout_width="fill_parent"
   android:layout_height="wrap_content">
 

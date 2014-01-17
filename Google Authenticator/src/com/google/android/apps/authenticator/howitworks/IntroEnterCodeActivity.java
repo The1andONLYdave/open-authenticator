@@ -16,12 +16,12 @@
 
 package com.google.android.apps.authenticator.howitworks;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.wizard.WizardPageActivity;
+import java.io.Serializable;
 
 import android.os.Bundle;
 
-import java.io.Serializable;
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.wizard.WizardPageActivity;
 
 /**
  * The page of the "How it works" that explains that occasionally the user might need to enter a

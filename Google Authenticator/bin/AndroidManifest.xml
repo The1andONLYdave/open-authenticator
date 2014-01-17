@@ -15,8 +15,8 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.dlka.android.apps.authenticator2"
-          android:versionCode="1" android:versionName="1.0">
+          package="com.dlka.android.apps.authenticator2donate"
+          android:versionCode="2" android:versionName="1.1">
 
   <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19" />
 
@@ -27,7 +27,7 @@
   from the device using various backup methods (e.g., adb backup introduced in ICS).
   -->
   <application android:label="@string/app_name_short"
-               android:icon="@drawable/ic_launcher_authenticator"
+               android:icon="@drawable/ic_launcher"
                android:theme="@style/AuthenticatorTheme"
                android:name="com.google.android.apps.authenticator.AuthenticatorApplication"
                android:allowBackup="false">
@@ -84,10 +84,10 @@
               android:label="@string/timesync_sync_now_screen_title" />
 
     
-    <service android:name="com.dlka.android.apps.authenticator.GoogleAuthService" >
+    <service android:name="com.dlka.android.apps.authenticator2donate.GoogleAuthService" >
         </service>
 
-    <receiver android:name="com.dlka.android.apps.authenticator.GoogleAuthReceiver" >
+    <receiver android:name="com.dlka.android.apps.authenticator2donate.GoogleAuthReceiver" >
         <intent-filter>
             <!-- Generic extension intents. -->
             <action android:name="com.sonyericsson.extras.liveware.aef.registration.EXTENSION_REGISTER_REQUEST" />

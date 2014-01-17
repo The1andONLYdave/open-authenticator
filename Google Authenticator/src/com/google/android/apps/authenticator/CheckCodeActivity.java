@@ -16,6 +16,11 @@
 
 package com.google.android.apps.authenticator;
 
+import java.security.GeneralSecurityException;
+
+import javax.crypto.Mac;
+import javax.crypto.spec.SecretKeySpec;
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -24,14 +29,9 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.TextView;
 
-import com.dlka.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2donate.R;
 import com.google.android.apps.authenticator.Base32String.DecodingException;
 import com.google.android.apps.authenticator.testability.DependencyInjector;
-
-import java.security.GeneralSecurityException;
-
-import javax.crypto.Mac;
-import javax.crypto.spec.SecretKeySpec;
 
 /**
  * The activity that displays the integrity check value for a key.

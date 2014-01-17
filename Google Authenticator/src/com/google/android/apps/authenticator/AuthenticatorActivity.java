@@ -16,12 +16,8 @@
 
 package com.google.android.apps.authenticator;
 
-import com.dlka.android.apps.authenticator2.R;
-import com.google.android.apps.authenticator.AccountDb.OtpType;
-import com.google.android.apps.authenticator.dataimport.ImportController;
-import com.google.android.apps.authenticator.howitworks.IntroEnterPasswordActivity;
-import com.google.android.apps.authenticator.testability.DependencyInjector;
-import com.google.android.apps.authenticator.testability.TestableActivity;
+import java.io.Serializable;
+import java.util.ArrayList;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -60,8 +56,12 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.io.Serializable;
-import java.util.ArrayList;
+import com.dlka.android.apps.authenticator2donate.R;
+import com.google.android.apps.authenticator.AccountDb.OtpType;
+import com.google.android.apps.authenticator.dataimport.ImportController;
+import com.google.android.apps.authenticator.howitworks.IntroEnterPasswordActivity;
+import com.google.android.apps.authenticator.testability.DependencyInjector;
+import com.google.android.apps.authenticator.testability.TestableActivity;
 
 /**
  * The main activity that displays usernames and codes
