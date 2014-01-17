@@ -17,7 +17,7 @@
 package com.google.android.apps.authenticator;
 
 import com.google.android.apps.authenticator.testability.DependencyInjector;
-import com.mikedg.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2.R;
 
 import android.content.Intent;
 import android.preference.Preference;

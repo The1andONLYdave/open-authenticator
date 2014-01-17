@@ -16,7 +16,7 @@
 
 package com.google.android.apps.authenticator;
 
-import com.mikedg.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2.R;
 
 import android.content.Context;
 import android.util.AttributeSet;

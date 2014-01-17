@@ -16,8 +16,8 @@
 
 package com.google.android.apps.authenticator.timesync;
 
+import com.dlka.android.apps.authenticator2.R;
 import com.google.android.apps.authenticator.testability.DependencyInjector;
-import com.mikedg.android.apps.authenticator2.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

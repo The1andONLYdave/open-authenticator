@@ -15,10 +15,10 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.mikedg.android.apps.authenticator2"
-          android:versionCode="21" android:versionName="2.21">
+          package="com.dlka.android.apps.authenticator2"
+          android:versionCode="1" android:versionName="1.0">
 
-  <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="14" />
+  <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19" />
 
   <uses-permission android:name="android.permission.VIBRATE" />
   <uses-permission android:name="com.sonyericsson.extras.liveware.aef.EXTENSION_PERMISSION" />
@@ -84,10 +84,10 @@
               android:label="@string/timesync_sync_now_screen_title" />
 
     
-    <service android:name="com.mikedg.android.apps.authenticator.GoogleAuthService" >
+    <service android:name="com.dlka.android.apps.authenticator.GoogleAuthService" >
         </service>
 
-    <receiver android:name="com.mikedg.android.apps.authenticator.GoogleAuthReceiver" >
+    <receiver android:name="com.dlka.android.apps.authenticator.GoogleAuthReceiver" >
         <intent-filter>
             <!-- Generic extension intents. -->
             <action android:name="com.sonyericsson.extras.liveware.aef.registration.EXTENSION_REGISTER_REQUEST" />

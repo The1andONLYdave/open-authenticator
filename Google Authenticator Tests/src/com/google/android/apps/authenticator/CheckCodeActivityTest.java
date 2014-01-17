@@ -16,9 +16,9 @@
 
 package com.google.android.apps.authenticator;
 
+import com.dlka.android.apps.authenticator2.R;
 import com.google.android.apps.authenticator.AccountDb.OtpType;
 import com.google.android.apps.authenticator.testability.DependencyInjector;
-import com.mikedg.android.apps.authenticator2.R;
 
 import android.content.Intent;
 import android.test.ActivityInstrumentationTestCase2;

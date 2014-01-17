@@ -26,7 +26,7 @@ import com.google.android.apps.authenticator.dataimport.ImportController;
 import com.google.android.apps.authenticator.howitworks.IntroEnterPasswordActivity;
 import com.google.android.apps.authenticator.testability.DependencyInjector;
 import com.google.android.apps.authenticator.testability.StartActivityListener;
-import com.mikedg.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2.R;
 import com.google.testing.littlemock.ArgumentCaptor;
 import com.google.testing.littlemock.LittleMock;
 import com.google.testing.littlemock.Mock;

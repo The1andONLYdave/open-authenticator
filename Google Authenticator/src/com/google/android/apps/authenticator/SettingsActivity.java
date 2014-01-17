@@ -16,8 +16,8 @@
 
 package com.google.android.apps.authenticator;
 
+import com.dlka.android.apps.authenticator2.R;
 import com.google.android.apps.authenticator.testability.TestablePreferenceActivity;
-import com.mikedg.android.apps.authenticator2.R;
 
 import android.os.Bundle;
 

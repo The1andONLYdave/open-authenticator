@@ -22,8 +22,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.dlka.android.apps.authenticator2.R;
 import com.google.android.apps.authenticator.wizard.WizardPageActivity;
-import com.mikedg.android.apps.authenticator2.R;
 
 /**
  * The page of the "Add account" flow that offers the user to add an account.
