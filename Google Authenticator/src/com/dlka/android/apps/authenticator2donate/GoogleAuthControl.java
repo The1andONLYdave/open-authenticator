@@ -46,6 +46,7 @@ import android.view.LayoutInflater;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.dlka.android.apps.authenticator2donate.R;
 import com.google.android.apps.authenticator.AccountDb;
 import com.google.android.apps.authenticator.OtpSource;
 import com.google.android.apps.authenticator.OtpSourceException;
@@ -68,9 +69,9 @@ class GoogleAuthControl extends ControlExtension {
 
 	private static final Bitmap.Config BITMAP_CONFIG = Bitmap.Config.RGB_565;
 
-    private static final int ANIMATION_X_POS = 46;
+    private static final int ANIMATION_X_POS = 94;
 
-    private static final int ANIMATION_Y_POS = 46;
+    private static final int ANIMATION_Y_POS = 72;
 
     private static final int ANIMATION_DELTA_MS = 500;
 

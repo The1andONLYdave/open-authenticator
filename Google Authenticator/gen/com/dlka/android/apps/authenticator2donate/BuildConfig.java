@@ -2,5 +2,5 @@
 package com.dlka.android.apps.authenticator2donate;
 
 public final class BuildConfig {
-    public final static boolean DEBUG = false;
+    public final static boolean DEBUG = true;
 }

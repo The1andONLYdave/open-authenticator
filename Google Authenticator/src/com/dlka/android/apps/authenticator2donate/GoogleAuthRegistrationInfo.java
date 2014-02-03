@@ -33,10 +33,10 @@ public class GoogleAuthRegistrationInfo extends RegistrationInformation
 	{
 		String extension48 = ExtensionUtils.getUriString(mContext, R.drawable.icon_extension48);
 		String extensionIcon = ExtensionUtils.getUriString(mContext, R.drawable.icon_extension);
-		String iconHostapp = ExtensionUtils.getUriString(mContext, R.drawable.icn_18x18_black_white_sample_control);
+		String iconHostapp = ExtensionUtils.getUriString(mContext, R.drawable.ic_launcher);
 
 		//String configurationText = mContext.getString(R.string.configuration_text);
-		String extensionName = "dlka Authenticator";
+		String extensionName = "Authenticator";
 
 		ContentValues values = new ContentValues();
 		// values.put(Registration.ExtensionColumns.CONFIGURATION_ACTIVITY,

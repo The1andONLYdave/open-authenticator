@@ -18,7 +18,7 @@ package com.google.android.apps.authenticator.wizard;
 
 import com.google.android.apps.authenticator.TestUtilities;
 import com.google.android.apps.authenticator.testability.DependencyInjector;
-import com.dlka.android.apps.authenticator2.R;
+import com.dlka.android.apps.authenticator2donate.R;
 
 import android.content.ComponentName;
 import android.content.Intent;
