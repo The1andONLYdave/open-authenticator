@@ -239,7 +239,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int button_back=0x7f05000e;
         /**  Label of the button to exit the "How it works" introductory flow. 
          */
-        public static final int button_exit_howitworks_flow=0x7f050042;
+        public static final int button_exit_howitworks_flow=0x7f050044;
         /**  Label for a button on the main screen: display an set of help pages explaining how 2-step
        verification works. 
          */
@@ -251,13 +251,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  Text on the button to uninstall the deprecated/old app. Clicking the button displays the
        system UI for uninstalling the deprecated/old app. 
          */
-        public static final int button_uninstall_old_app=0x7f05003b;
+        public static final int button_uninstall_old_app=0x7f05003d;
         /**  Button on manual account entry page, cancels adding account, returns to main page 
          */
-        public static final int cancel=0x7f05002b;
+        public static final int cancel=0x7f05002d;
         /**  Information displayed on the check-key screen, explaining use of the integrity check 
          */
-        public static final int check_code=0x7f050027;
+        public static final int check_code=0x7f050029;
         /**  Menu item user selects to view the key integrity check for a particular account 
          */
         public static final int check_code_menu_item=0x7f05001b;
@@ -266,36 +266,40 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int check_code_title=0x7f05001a;
         /**  Menu item when long-pressing on account, used to remove the account 
          */
-        public static final int context_menu_remove_account=0x7f05002c;
+        public static final int context_menu_remove_account=0x7f05002e;
         /**  Long-press menu item for an account, copies current OTP code for that account
        to the phone clipboard 
          */
-        public static final int copy_to_clipboard=0x7f050034;
+        public static final int copy_to_clipboard=0x7f050036;
         /**  Text reported to the accessibility system (e.g., on screen reader)
        when the user selects a counter-based account (from the account list)
        for which no code is currently displayed/generated.
        Pressing on the account row will generate the next verification
        code. 
          */
-        public static final int counter_pin=0x7f050035;
+        public static final int counter_pin=0x7f050037;
         /**  Text of the prompt displayed to the user on application startup when data from the
        deprecated/old Authenticator app has been imported into this app and thus the
        deprecated/old app can be uninstalled.
        The dialog offers two buttons: Uninstall (button_uninstall_old_app) and Cancel. 
          */
-        public static final int dataimport_import_succeeded_uninstall_dialog_prompt=0x7f05003a;
+        public static final int dataimport_import_succeeded_uninstall_dialog_prompt=0x7f05003c;
         /**  Title of the prompt/dialog displayed to the user on application startup when data from the
        deprecated/old Authenticator app has been imported into this app and thus the
        deprecated/old app can be uninstalled. The text of the prompt is defined in
        dataimport_import_succeeded_uninstall_dialog_prompt. 
          */
-        public static final int dataimport_import_succeeded_uninstall_dialog_title=0x7f050039;
+        public static final int dataimport_import_succeeded_uninstall_dialog_title=0x7f05003b;
         /**  Error message displayed on check-integrity code page, if key is corrupted. 
          */
-        public static final int decoding_exception=0x7f050029;
+        public static final int decoding_exception=0x7f05002b;
+        /**  DO NOT TRANSLATE. URL of the Donate page. 
+         */
+        public static final int donate_page_url=0x7f050023;
+        public static final int donate_preference_title=0x7f050022;
         /**  Placeholder value displayed for OTP before any codes have been generated 
          */
-        public static final int empty_pin=0x7f050036;
+        public static final int empty_pin=0x7f050038;
         /**  Form field to enter account name (part of the form used for manually adding account) 
          */
         public static final int enter_account_label=0x7f05000f;
@@ -324,7 +328,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  Error message displayed when user tries to rename one account to the same
        name as another existing account 
          */
-        public static final int error_exists=0x7f050033;
+        public static final int error_exists=0x7f050035;
         /**  Alternative message displayed when scanned QR code is not recognized as valid key 
          */
         public static final int error_qr=0x7f050015;
@@ -337,7 +341,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  Error message displayed on check-integrity code page,
        if there is an error computing the integrity code for the key. 
          */
-        public static final int general_security_exception=0x7f050028;
+        public static final int general_security_exception=0x7f05002a;
         /**  Label for menu option: display an set of help pages explaining how 2-step verification
        works. 
          */
@@ -345,29 +349,29 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         /**  Details (HTML) of the "How it works" wizard page which explains that a verification code may
        need to be entered when signing in and that this app will generate the code. 
          */
-        public static final int howitworks_page_enter_code_details=0x7f05003f;
+        public static final int howitworks_page_enter_code_details=0x7f050041;
         /**  Title of the "How it works" wizard page which explains that a verification code may need to
        be entered when signing in. 
          */
-        public static final int howitworks_page_enter_code_title=0x7f05003e;
+        public static final int howitworks_page_enter_code_title=0x7f050040;
         /**  Details (HTML) of the "How it works" wizard page which explains that in addition to entering
        a password during sign in a verification code may need to be entered. 
          */
-        public static final int howitworks_page_enter_password_details=0x7f05003d;
+        public static final int howitworks_page_enter_password_details=0x7f05003f;
         /**  Title of the "How it works" wizard page which explains that in addition to entering a
        password during sign in a verification code may need to be entered. 
          */
-        public static final int howitworks_page_enter_password_title=0x7f05003c;
+        public static final int howitworks_page_enter_password_title=0x7f05003e;
         /**  Details (HTML) of the "How it works" wizard page which that once a computer/device is
        verified the user can tell Google not to ask for a verification code when signing from that
        computer/device. 
          */
-        public static final int howitworks_page_verify_device_details=0x7f050041;
+        public static final int howitworks_page_verify_device_details=0x7f050043;
         /**  Title of the "How it works" wizard page which that once a computer/device is verified the
        user can tell Google not to ask for a verification code when signing in from that
        computer/device. 
          */
-        public static final int howitworks_page_verify_device_title=0x7f050040;
+        public static final int howitworks_page_verify_device_title=0x7f050042;
         /**  Text on button user clicks to start installation of barcode scanning app 
          */
         public static final int install_button=0x7f05001e;
@@ -383,43 +387,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int main_preference_screen_title=0x7f050008;
         /**  Text on OK button for confirmation dialogs 
          */
-        public static final int ok=0x7f050037;
+        public static final int ok=0x7f050039;
         /**  DO NOT TRANSLATE. URL of the Open-Source project's page. 
          */
-        public static final int opensource_page_url=0x7f050022;
+        public static final int opensource_page_url=0x7f050024;
         /**  Preference title, used to get more information about the open-source project for this app 
          */
         public static final int opensource_preference_title=0x7f050021;
         /**  DO NOT TRANSLATE. URL of the Privacy Policy page. 
          */
-        public static final int privacy_page_url=0x7f050026;
+        public static final int privacy_page_url=0x7f050028;
         /**  Preference title, used to view the privacy policy from Google web page 
          */
-        public static final int privacy_preference_title=0x7f050025;
+        public static final int privacy_preference_title=0x7f050027;
         /**  Remove/Delete button in the dialog displayed when the user attempts to remove an account.
        
          */
-        public static final int remove_account_dialog_button_remove=0x7f05002d;
+        public static final int remove_account_dialog_button_remove=0x7f05002f;
         /**  Text (HTML) of the dialog displayed when the user attempts to delete an account.
        The dialog offers two buttons: Remove (remove_account_dialog_button_remove) and Cancel. 
          */
-        public static final int remove_account_dialog_message=0x7f05002f;
+        public static final int remove_account_dialog_message=0x7f050031;
         /**  Title of the dialog displayed when the user attempts to remove an account. 
          */
-        public static final int remove_account_dialog_title=0x7f05002e;
+        public static final int remove_account_dialog_title=0x7f050030;
         /**  Text (HTML) of the dialog displayed when the user attempts to remove a Google account.
        The text differs slightly from remove_account_dialog_button_remove which is displayed
        for non-Google accounts for which we don't know the exact effects of removing the account.
        The dialog offers two buttons: Remove (remove_account_dialog_button_remove) and Cancel. 
          */
-        public static final int remove_google_account_dialog_message=0x7f050030;
+        public static final int remove_google_account_dialog_message=0x7f050032;
         /**  Long-press menu item for an account, used to rename that account 
          */
-        public static final int rename=0x7f050031;
+        public static final int rename=0x7f050033;
         /**  Text in dialog shown when user selects "Rename" menu item for a given
        account, with the parameter indicating existing account name 
          */
-        public static final int rename_message=0x7f050032;
+        public static final int rename_message=0x7f050034;
         /**  Question asking user to confirm adding a new account, the details of which were obtained
        by scanning a QR code or provided by the web browser. 
          */
@@ -432,81 +436,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int settings_menu_item=0x7f05000a;
         /**  Button on manual account entry page, adds the account 
          */
-        public static final int submit=0x7f05002a;
+        public static final int submit=0x7f05002c;
         /**  DO NOT TRANSLATE. URL of the Terms of Service page. 
          */
-        public static final int terms_page_url=0x7f050024;
+        public static final int terms_page_url=0x7f050026;
         /**  Preference title, used to view the terms of service from Google web page 
          */
-        public static final int terms_preference_title=0x7f050023;
+        public static final int terms_preference_title=0x7f050025;
         /**  Title of the preference to display more information about the Time Correction feature. 
          */
-        public static final int timesync_about_feature_preference_title=0x7f050048;
+        public static final int timesync_about_feature_preference_title=0x7f05004a;
         /**  Text (HTML) of the screen describing the Time correction/sync feature in detail. 
          */
-        public static final int timesync_about_feature_screen_details=0x7f05004a;
+        public static final int timesync_about_feature_screen_details=0x7f05004c;
         /**  Title of the screen descirbing the Time correction/sync feature in detail. 
          */
-        public static final int timesync_about_feature_screen_title=0x7f050049;
+        public static final int timesync_about_feature_screen_title=0x7f05004b;
         /**  Summary of the preference screen to configure the correction of the app's internal time. 
          */
-        public static final int timesync_preference_screen_summary=0x7f050046;
+        public static final int timesync_preference_screen_summary=0x7f050048;
         /**  Title of the preference screen to configure the correction of the app's internal time. 
          */
-        public static final int timesync_preference_screen_title=0x7f050045;
+        public static final int timesync_preference_screen_title=0x7f050047;
         /**  Details of the dialog displayed after the application encountered a network connectivity
        error while trying to contact Google servers to see if its internal time needs to be
        corrected. 
          */
-        public static final int timesync_sync_now_connectivity_error_dialog_details=0x7f050053;
+        public static final int timesync_sync_now_connectivity_error_dialog_details=0x7f050055;
         /**  Title of the dialog displayed after the application encountered a network connectivity error
        while trying to contact Google servers to see if its internal time needs to be
        corrected. 
          */
-        public static final int timesync_sync_now_connectivity_error_dialog_title=0x7f050052;
+        public static final int timesync_sync_now_connectivity_error_dialog_title=0x7f050054;
         /**  Title of the preference to sync the app's internal time with Google. 
          */
-        public static final int timesync_sync_now_preference_title=0x7f050047;
+        public static final int timesync_sync_now_preference_title=0x7f050049;
         /**  Details of the progress dialog displayed when contacting Google servers to correct the app's
        internal time. 
          */
-        public static final int timesync_sync_now_progress_dialog_details=0x7f05004d;
+        public static final int timesync_sync_now_progress_dialog_details=0x7f05004f;
         /**  Title of the progress dialog displayed when contacting Google servers to correct the app's
        internal time. 
          */
-        public static final int timesync_sync_now_progress_dialog_title=0x7f05004c;
+        public static final int timesync_sync_now_progress_dialog_title=0x7f05004e;
         /**  Title of the screen that syncs/corrects the app's internal time with Google servers. 
          */
-        public static final int timesync_sync_now_screen_title=0x7f05004b;
+        public static final int timesync_sync_now_screen_title=0x7f05004d;
         /**  Details of the dialog displayed after the application contacted Google servers and
        discovered that the internal time does not need correcting. 
          */
-        public static final int timesync_sync_now_time_already_correct_dialog_details=0x7f050051;
+        public static final int timesync_sync_now_time_already_correct_dialog_details=0x7f050053;
         /**  Title of the dialog displayed after the application contacted Google servers and
        discovered that the internal time does not need correcting. 
          */
-        public static final int timesync_sync_now_time_already_correct_dialog_title=0x7f050050;
+        public static final int timesync_sync_now_time_already_correct_dialog_title=0x7f050052;
         /**  Details of the dialog displayed after the application contacted Google servers and
        corrected its internal time. 
          */
-        public static final int timesync_sync_now_time_corrected_dialog_details=0x7f05004f;
+        public static final int timesync_sync_now_time_corrected_dialog_details=0x7f050051;
         /**  Title of the dialog displayed after the application contacted Google servers and
        corrected its internal time. 
          */
-        public static final int timesync_sync_now_time_corrected_dialog_title=0x7f05004e;
+        public static final int timesync_sync_now_time_corrected_dialog_title=0x7f050050;
         /**  Label for the dropdown menu when adding new account manually.
        Asking user to specify one of the two key types (counter vs. time) 
          */
-        public static final int type_prompt=0x7f050038;
+        public static final int type_prompt=0x7f05003a;
         /**  Preference title for displaying the version of this app 
          */
         public static final int version_preference_title=0x7f050020;
         /**  Subheading in the main screen of the app when there are no accounts configured (yet).  
          */
-        public static final int welcome_page_details=0x7f050044;
+        public static final int welcome_page_details=0x7f050046;
         /**  Heading in the main screen of the app when there are no accounts configured (yet). 
          */
-        public static final int welcome_page_title=0x7f050043;
+        public static final int welcome_page_title=0x7f050045;
     }
     public static final class style {
         public static final int AccountListWithVerificationCodes=0x7f090002;

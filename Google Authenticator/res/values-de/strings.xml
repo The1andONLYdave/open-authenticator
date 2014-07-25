@@ -16,8 +16,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="5078996080612406301">"SmartWatch2 Authenticator Pro"</string>
-    <string name="app_name_short" msgid="6268465073167241020">"Authenticator"</string>
+    <string name="app_name" msgid="5078996080612406301">"Open Authenticator Pro"</string>
+    <string name="app_name_short" msgid="6268465073167241020">"Open Authenticator"</string>
     <string name="enter_key_title" msgid="3762128630776563361">"Manuelle Kontoeingabe"</string>
     <string name="enter_key_page_add_button" msgid="7145413404890383746">"Hinzu"</string>
     <string name="button_add_account" msgid="4301500554118934829">"Konto hinzufügen"</string>
@@ -50,6 +50,7 @@
     <string name="about_preference_screen_title" msgid="8056864904503664711">"Über die App"</string>
     <string name="version_preference_title" msgid="5388130414499892219">"Version"</string>
     <string name="opensource_preference_title" msgid="9222719496327822081">"Open-Source-Projekt"</string>
+    <string name="donate_preference_title">"Spenden"</string>
     <string name="terms_preference_title" msgid="2016562579825643136">"Nutzungsbedingungen"</string>
     <string name="privacy_preference_title" msgid="5170441521661957179">"Datenschutzerklärung"</string>
     <string name="check_code" msgid="8970489904648838257">"Überprüfen Sie, ob der Schlüsselwert für <xliff:g id="ACCOUNT">%1$s</xliff:g> richtig ist. Der hier angegebene Wert muss mit dem vom Server bereitgestellten Integritätsprüfungswert übereinstimmen:&lt;br/&gt;"</string>

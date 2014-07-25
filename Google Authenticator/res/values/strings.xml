@@ -18,10 +18,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
   <!-- Name of the application -->
-  <string name="app_name">SmartWatch2 Authenticator Pro</string>
+  <string name="app_name">Open Authenticator Pro</string>
 
   <!-- Shortened version of the application name, without Google branding -->
-  <string name="app_name_short">SmartWatch2 Authenticator Pro</string>
+  <string name="app_name_short">Open Authenticator Pro</string>
 
   <!-- Title displayed at the top when adding new OTP account manually -->
   <string name="enter_key_title">Manual account entry</string>
@@ -131,6 +131,11 @@
   <!-- Preference title, used to get more information about the open-source project for this app -->
   <string name="opensource_preference_title">Open-source project</string>
 
+  <string name="donate_preference_title">Donate</string>
+  
+  <!-- DO NOT TRANSLATE. URL of the Donate page. -->
+  <string name="donate_page_url" translatable="false">http://kulsch-it.de/app-authenticator/</string>
+   
   <!-- DO NOT TRANSLATE. URL of the Open-Source project's page. -->
   <string name="opensource_page_url" translatable="false">http://code.google.com/p/google-authenticator/</string>
 
