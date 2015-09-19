@@ -1,0 +1,136 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From Google Authenticator:
+* COPYING
+* ChangeLog
+* tests\
+* tests\.classpath
+* tests\.project
+* tests\AndroidManifest.xml
+* tests\README
+* tests\project.properties
+* tests\src\
+* tests\src\com\
+* tests\src\com\google\
+* tests\src\com\google\android\
+* tests\src\com\google\android\apps\
+* tests\src\com\google\android\apps\authenticator\
+* tests\src\com\google\android\apps\authenticator\AccountDbTest.java
+* tests\src\com\google\android\apps\authenticator\AddOtherAccountActivityTest.java
+* tests\src\com\google\android\apps\authenticator\AuthenticatorActivityPart2Test.java
+* tests\src\com\google\android\apps\authenticator\AuthenticatorActivityTest.java
+* tests\src\com\google\android\apps\authenticator\Base32StringTest.java
+* tests\src\com\google\android\apps\authenticator\CheckCodeActivityTest.java
+* tests\src\com\google\android\apps\authenticator\EnterKeyActivityTest.java
+* tests\src\com\google\android\apps\authenticator\FileUtilitiesTest.java
+* tests\src\com\google\android\apps\authenticator\HexEncodingTest.java
+* tests\src\com\google\android\apps\authenticator\OtpProviderTest.java
+* tests\src\com\google\android\apps\authenticator\PasscodeGeneratorTest.java
+* tests\src\com\google\android\apps\authenticator\PreconditionsTest.java
+* tests\src\com\google\android\apps\authenticator\RunImmediatelyOnCallingThreadExecutor.java
+* tests\src\com\google\android\apps\authenticator\SettingsAboutActivityTest.java
+* tests\src\com\google\android\apps\authenticator\TestUtilities.java
+* tests\src\com\google\android\apps\authenticator\TotpClockTest.java
+* tests\src\com\google\android\apps\authenticator\TotpCounterTest.java
+* tests\src\com\google\android\apps\authenticator\UtilitiesTest.java
+* tests\src\com\google\android\apps\authenticator\dataimport\
+* tests\src\com\google\android\apps\authenticator\dataimport\ImporterTest.java
+* tests\src\com\google\android\apps\authenticator\howitworks\
+* tests\src\com\google\android\apps\authenticator\howitworks\IntroEnterCodeActivityTest.java
+* tests\src\com\google\android\apps\authenticator\howitworks\IntroEnterPasswordActivityTest.java
+* tests\src\com\google\android\apps\authenticator\howitworks\IntroVerifyDeviceActivityTest.java
+* tests\src\com\google\android\apps\authenticator\testability\
+* tests\src\com\google\android\apps\authenticator\testability\HttpClientFactoryTest.java
+* tests\src\com\google\android\apps\authenticator\timesync\
+* tests\src\com\google\android\apps\authenticator\timesync\NetworkTimeProviderTest.java
+* tests\src\com\google\android\apps\authenticator\timesync\SyncNowControllerTest.java
+* tests\src\com\google\android\apps\authenticator\wizard\
+* tests\src\com\google\android\apps\authenticator\wizard\WizardPageActivityTest.java
+* tests\src\com\google\android\apps\authenticator\wizard\WizardPageActivityTestBase.java
+From SmartExtensionAPI:
+* build.gradle
+* images\
+* images\capabilities_database.png
+* images\control_api_extension_lifecycle.png
+* images\notification_database.png
+* images\notification_operating_environment.png
+* images\registration_database.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In SmartExtensionAPI:
+* AndroidManifest.xml => smartExtensionAPI\src\main\AndroidManifest.xml
+* res\ => smartExtensionAPI\src\main\res\
+* src\ => smartExtensionAPI\src\main\java\
+In SmartExtensionUtils:
+* AndroidManifest.xml => smartExtensionUtils\src\main\AndroidManifest.xml
+* res\ => smartExtensionUtils\src\main\res\
+* src\ => smartExtensionUtils\src\main\java\
+In Google Authenticator:
+* AndroidManifest.xml => googleAuthenticator\src\main\AndroidManifest.xml
+* lint.xml => googleAuthenticator\lint.xml
+* res\ => googleAuthenticator\src\main\res\
+* src\ => googleAuthenticator\src\main\java\
+* src\com\google\android\apps\authenticator\dataexport\IExportServiceV2.aidl => googleAuthenticator\src\main\aidl\com\google\android\apps\authenticator\dataexport\IExportServiceV2.aidl
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\ => googleAuthenticator\src\main\java\
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\AndroidManifest.xml => googleAuthenticator\src\main\resources\AndroidManifest.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\build.gradle => googleAuthenticator\src\main\resources\build.gradle
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\images\capabilities_database.png => googleAuthenticator\src\main\resources\images\capabilities_database.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\images\control_api_extension_lifecycle.png => googleAuthenticator\src\main\resources\images\control_api_extension_lifecycle.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\images\notification_database.png => googleAuthenticator\src\main\resources\images\notification_database.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\images\notification_operating_environment.png => googleAuthenticator\src\main\resources\images\notification_operating_environment.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\images\registration_database.png => googleAuthenticator\src\main\resources\images\registration_database.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\project.properties => googleAuthenticator\src\main\resources\project.properties
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\res\values\strings.xml => googleAuthenticator\src\main\resources\res\values\strings.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionAPI\res\values\widget_attrs.xml => googleAuthenticator\src\main\resources\res\values\widget_attrs.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\ => googleAuthenticator\src\main\java\
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\AndroidManifest.xml => googleAuthenticator\src\main\resources\AndroidManifest.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\project.properties => googleAuthenticator\src\main\resources\project.properties
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\drawable\badge_counter.png => googleAuthenticator\src\main\resources\res\drawable\badge_counter.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\drawable\headset_pro_cancel_icn.png => googleAuthenticator\src\main\resources\res\drawable\headset_pro_cancel_icn.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\drawable\headset_pro_focus_xs_icn.png => googleAuthenticator\src\main\resources\res\drawable\headset_pro_focus_xs_icn.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\drawable\headset_pro_ok_icn.png => googleAuthenticator\src\main\resources\res\drawable\headset_pro_ok_icn.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\drawable\text_bg.png => googleAuthenticator\src\main\resources\res\drawable\text_bg.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\drawable\widget_frame.png => googleAuthenticator\src\main\resources\res\drawable\widget_frame.png
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\layout\smart_watch_notification_widget.xml => googleAuthenticator\src\main\resources\res\layout\smart_watch_notification_widget.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\layout\smart_watch_widget.xml => googleAuthenticator\src\main\resources\res\layout\smart_watch_widget.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\values-ja\headset_pro.xml => googleAuthenticator\src\main\resources\res\values-ja\headset_pro.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\values-zh-rTW\headset_pro.xml => googleAuthenticator\src\main\resources\res\values-zh-rTW\headset_pro.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\values-zh-rTW\smart_watch.xml => googleAuthenticator\src\main\resources\res\values-zh-rTW\smart_watch.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\values\headset_pro.xml => googleAuthenticator\src\main\resources\res\values\headset_pro.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\values\smart_watch.xml => googleAuthenticator\src\main\resources\res\values\smart_watch.xml
+* C:\Users\Dell\Documents\GitHub\google-auth-smart-watch\SmartExtensionUtils\res\values\smart_watch_2.xml => googleAuthenticator\src\main\resources\res\values\smart_watch_2.xml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

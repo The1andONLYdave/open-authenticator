@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"În funcţie de oră"</item>
+    <item msgid="5212912099902129712">"În funcţie de contor"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Despre"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Despre"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Adăugaţi un cont"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google Authenticator"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"Authenticator"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Adăugaţi un cont"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Adăugaţi contul manual"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"Scanaţi codul de bare"</string>
+    <string msgid="414120249698283380" name="button_back">"Înapoi"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Ieşiţi"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"Modul de funcţionare"</string>
+    <string msgid="2321252361372851972" name="button_next">"Înainte"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Dezinstalaţi"</string>
+    <string msgid="5705561042616477184" name="cancel">"Anulaţi"</string>
+    <string msgid="8970489904648838257" name="check_code">"Pentru a verifica dacă aveţi valoarea corectă a cheii pentru <ns1:g id="ACCOUNT">%1$s</ns1:g>, verificaţi dacă valoarea de aici se potriveşte cu valoarea de verificare a integrităţii furnizată de server:&lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Verificaţi valoarea cheii"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Valoarea de verificare a integrităţii"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Eliminaţi"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"Copiaţi în clipboard"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Obţineţi codul"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"Datele dvs. au fost importate din aplicaţia învechită Google Authenticator. Acum puteţi dezinstala în siguranţă versiunea anterioară a aplicaţiei făcând clic mai jos."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Importul a reuşit"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Se decodifică excepţia"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Introduceţi numele contului"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Introduceţi cheia dvs."</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"Valoarea cheii include un caracter nepermis"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Adăugaţi"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Introducere manuală a codului"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"Valoarea cheii este prea scurtă"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Introduceţi acest cod de verificare dacă vi se solicită acest lucru în timpul conectării:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"Cheia secretă necompletată nu poate fi salvată"</string>
+    <string msgid="9037595140877350695" name="error_exists">"Ne pare rău, numele respectiv este deja utilizat."</string>
+    <string msgid="1076904454315180481" name="error_qr">"Codul QR nu poate fi interpretat."</string>
+    <string msgid="1784361744549854479" name="error_title">"Eroare"</string>
+    <string msgid="8889749448317216536" name="error_uri">"Cheia nu a fost recunoscută."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Excepţie de securitate generală"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"Modul de funcţionare"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"Această aplicaţie va genera codul necesar pentru a continua conectarea."</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"Dacă vă aflaţi pe un computer nou, introduceţi un cod de la telefonul dvs."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Cu toate acestea, dacă sunteţi la un computer sau la un dispozitiv nou, Google vă va solicita un cod special pentru a se asigura că sunteţi cu adevărat dvs."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"Pentru a vă conecta, veţi introduce parola."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"De asemenea, puteţi alege să se reţină computerul, iar Google nu vă va solicita din nou un cod pentru acel computer."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Apoi, sunteţi conectat(ă)"</string>
+    <string msgid="5395462228740377795" name="install_button">"Instalaţi"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Pentru a scana codurile de bare care conţin chei, trebuie să instalaţi scanerul de coduri de bare ZXing."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Instalaţi scanerul pentru coduri de bare?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Setări"</string>
+    <string msgid="6406800116409689723" name="ok">"OK"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Proiect open source"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Politica de confidenţialitate"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Eliminaţi contul"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"Eliminarea acestui cont va &lt;b>elimina posibilitatea dvs.&lt;/b> de a genera coduri, cu toate acestea, &lt;b>nu&lt;/b> va dezactiva autentificarea cu doi factori. Această operaţie vă poate împiedica să vă conectaţi la contul dvs. &lt;p> Înainte de eliminare: &lt;ul> &lt;li>dezactivaţi autentificarea cu doi factori pentru acest cont sau&lt;/li> &lt;li>asiguraţi-vă că aveţi un mecanism alternativ pentru generarea de coduri.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"Eliminaţi <ns1:g id="ACCOUNT">%1$s</ns1:g>?"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"Eliminarea acestui cont va &lt;b>elimina posibilitatea dvs.&lt;/b> de a genera coduri, cu toate acestea, &lt;b>nu&lt;/b> va dezactiva verificarea în doi paşi. Această operaţie vă poate împiedica să vă conectaţi la contul dvs. &lt;p> Înainte de eliminare: &lt;ul> &lt;li>dezactivaţi verificarea în doi paşi pentru acest cont sau&lt;/li> &lt;li>asiguraţi-vă că aveţi un mecanism alternativ pentru generarea de coduri.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Redenumiţi"</string>
+    <string msgid="5929955206098259018" name="rename_message">"Redenumiţi <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Salvaţi cheia pentru"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Cheie secretă salvată"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Setări"</string>
+    <string msgid="1518558163262431303" name="submit">"Salvaţi"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Termeni şi condiţii"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ro/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Despre această funcţie"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Dacă apăsaţi pe &amp;quot;Sincronizaţi acum&amp;quot;, aplicaţia Google Authenticator va încerca să îşi sincronizeze ceasul intern cu serverele Google o dată. Setările de dată şi oră ale dispozitivului nu vor fi modificate. &lt;p> Aplicaţia Google Authenticator nu transmite niciun fel de date personale sau informaţii privind contul în timpul sincronizării ceasului intern cu serverele Google. &lt;p> &lt;b>De ce este util acest lucru&lt;/b> &lt;p> Aplicaţia Google Authenticator generează coduri pentru verificarea în doi paşi bazate pe 1) ora curentă şi pe 2) un număr secret cunoscut de aplicaţie şi de server. &lt;p> Dacă aplicaţia Google Authenticator şi serverul Google nu au aceeaşi oră, este posibil ca, atunci încercaţi să vă conectaţi, codurile generate să nu fie acceptate. &lt;p> În mod prestabilit, aplicaţia Google Authenticator utilizează Setările de dată şi oră ale dispozitivului, iar în majoritatea cazurilor, veţi putea să generaţi coduri valide asigurându-vă că setările dvs. pentru oră, dată şi fus orar sunt configurate corect. Cu toate acestea, când apar neconcordanţe în privinţa orei, acestea pot fi dificil de depanat (în special dacă utilizaţi ora sau fusurile orare furnizate de reţea)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Despre această funcţie"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Sincronizaţi ceasul intern al aplicaţiei Google Autentificator cu serverele Google"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Corectare oră pentru coduri"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"A apărut o problemă la contactarea serverului Google. Verificaţi setările de reţea şi încercaţi din nou."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Sincronizaţi acum"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Sincronizaţi acum"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"Se conectează la server..."</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Sincronizaţi acum"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Sincronizaţi acum"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"Ceasul intern al aplicaţiei Google Autentificator nu a fost ajustat, deoarece pare a fi deja sincronizat cu serverele Google."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"Ora este deja corectă"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"Ceasul intern al aplicaţiei Google Authenticator a fost ajustat pentru a se potrivi cu ora furnizată de serverele Google. "\n\n"Setările de dată şi oră de pe acest dispozitiv nu au fost modificate."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Oră corectată"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Tipul cheii"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Versiune"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"Verificarea în doi paşi vă protejează Contul Google chiar dacă parola vă este furată."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Mii de conturi online sunt fraudate zilnic."</string>
+</resources>

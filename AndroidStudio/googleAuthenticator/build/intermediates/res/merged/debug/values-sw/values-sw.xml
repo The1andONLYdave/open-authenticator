@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-sw/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"Kulingana na wakati"</item>
+    <item msgid="5212912099902129712">"Kuhusu kinyume"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Kuhusu"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Kuhusu"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Ongeza akaunti"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google Authenticator"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"Kithibitishaji"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Ongeza akaunti"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Ongeza akaunti kikuli"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"Changanua msimbopau"</string>
+    <string msgid="414120249698283380" name="button_back">"Nyuma"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Toka"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"Angalia inavyofanya kazi"</string>
+    <string msgid="2321252361372851972" name="button_next">"Inayofuata"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Sanidua"</string>
+    <string msgid="5705561042616477184" name="cancel">"Katisha"</string>
+    <string msgid="8970489904648838257" name="check_code">"Ili kuangalia kwamba una thamani sawa ya msimbo wa <ns1:g id="ACCOUNT">%1$s</ns1:g> thibitisha kuwa thamani hapa inalingana na kuangalia uadilifu wa thamani iliyotolewa na seva: &lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Angalia thamani muhimu"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Kuangalia uadilifu wa thamani"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Ondoa"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"Nakili kwenye ubao pogoa"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Pata msimbo"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"Data yako imefanikiwa kuletwa kutoka kwa programu yenye malalamishi ya Kithibitishaji cha Google. Sasa ni salama kusanidua toleo la awali la programu kwa kubofya hapa chini."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Kuleta kumefaulu"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Isipokuwa usimbuaji"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Ingiza jina la akaunti"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Ingiza msimbo yako"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"Msimbo msingi ina herufi  haramu"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Ongeza"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Mwongozo wa ingizo ya akaunti"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"Thamani ya msimbo ni mafupi mno"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Ingiza msimbo huu wa uthibitishaji wakati unapoashiriwa kuingia:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"Haiwezi kuhifadhi siri tupu"</string>
+    <string msgid="9037595140877350695" name="error_exists">"Samahani, jina hilo tayari liko katika matumizi."</string>
+    <string msgid="1076904454315180481" name="error_qr">"Hawezi kutafsiri msimbo wa QR."</string>
+    <string msgid="1784361744549854479" name="error_title">"Hitilafu"</string>
+    <string msgid="8889749448317216536" name="error_uri">"Msimbo hautambuliwi."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Kwa kawaida isipokuwa usalama"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"Jinsi inavyofanya kazi"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"Programu hii itazalisha msimbo unaohitajika ili kuendelea kuingia."</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"Kama uko kwenye kompyuta mpya, ingiza msimbo kutoka kwenye simu yako."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Hata hivyo, kama uko kwenye kompyuta au kifaa kipya, Google itakuuliza msimbo maalum ili kuhakikisha kweli ni wewe."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"Ili kuingia, utaingiza nenosiri lako."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"Unaweza pia kuchagua kukumbuka kompyuta na Google haitakuuliza msimbo hapo tena."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Basi umeingia."</string>
+    <string msgid="5395462228740377795" name="install_button">"Sakinisha"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Ili kukagua msimbo wa kuzuia yenye msimbo, unapaswa kusanidi kitambazo cha ZXing barcode."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Sanidi kizuia msimbo ya kitambazo?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Mipangilio"</string>
+    <string msgid="6406800116409689723" name="ok">"Sawa"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Mradi wa chanzo huria"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Sera ya faragha"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Ondoa akaunti"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"Kuondoa akaunti hii &lt;b>kutaondoa uwezo wako wa&lt;/b>kuzalisha misimbo, hata hivyo, kutazima&lt;b>not&lt;/b> uthibitishaji wa hatua 2. Huenda hii ikakuzuia dhidi ya kuingia katika akaunti yako. &lt;p> Kabla ya kuondoa:&lt;ul>Zima uthibitishaji wa hatua 2 wa akaunti hii, au&lt;/li> &lt;li>Hakikisha kuwa una utaratibu mbadala wa kuzalisha misimbo.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"Ondoa <ns1:g id="ACCOUNT">%1$s</ns1:g>?"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"Kuondoa akaunti hii &lt;b>kutaondoa uwezo wako wa&lt;/b>kuzalisha misimbo, hata hivyo, hakutazima&lt;b>not&lt;/b> uthibitishaji wa hatua 2. Huenda hii ikakuzuia dhidi ya kuingia katika akaunti yako. &lt;p> Kabla ya kuondoa:&lt;ul>Zima uthibitishaji wa hatua 2 wa akaunti hii, au&lt;/li> &lt;li>Hakikisha kuwa una utaratibu mbadala wa kuzalisha misimbo.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Badili jina"</string>
+    <string msgid="5929955206098259018" name="rename_message">"Badili jina <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Hifadhi ufunguo wa"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Siri Imeokolewa"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Mipangilio"</string>
+    <string msgid="1518558163262431303" name="submit">"Hifadhi"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Masharti ya huduma"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-sw/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Kuhusu kipengele hiki"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Ukibonyeza &amp;quot;Landanisha sasa&amp;quot;, Kihalalishaji kitajaribu kulandanisha mara moja saa yake ya ndani na seva za Google. Mipangilio yaTarehe ya kifaa na Saa haitabadilishwa. &lt;p> Kihalalishaji hakipeleki data yoyote ya kibinafsi au maelezo ya akaunti wakati wa kulandanisha saa yake ya ndani na seva za Google, &lt;p> &lt;b>Kwanini hii ni ya muhimu lt;p> &lt;b> Kihalalishaji kinafanyiza misimbo ya uthibitishaji wa hatua-2 inayolingana na 1) saa ya sasa, na 2) nambari ya siri inayojulikana na programu na seva. &lt;p> Kama kihalalishaji na seva hazitakubaliana saa ni gani, misimbo ya ile programu inafanyiza inaweza kosa kukubalika unapojaribu kuingia. &lt;p> Kwa chaguo-msingi Kihalalishaji kinatumia Tarehe ya kifaa na mipangilio ya Saa, tarehe, na mipangilio ya ukanda wa saa na kusanidiwa vizuri. Hata hivyo, wakati muda usipolingana unapotokea, unaweza kuwa ngumu kusuluhisha (hasa ukitumia muda unaotolewa na mtandao au kanda za saa)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Kuhusu kipengele hiki"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Landanisha saa ya ndani ya Kihalalishaji na sava za Google"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Marekebisho ya muda ya misimbo"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"Kulikuwa na tatizo la kuwasiliana na seva ya Google. Tafadhali kagua mipangilio ya mtandao wako na ujaribu tena."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Landanisha sasa"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Landanisha sasa"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"Inaunganisha na seva..."</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Landanisha sasa"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Landanisha sasa"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"Saa ya ndani ya kihalalishaji haikurekebishwa kwa sababu inaonenakana tayari imelandanishwa na seva za Google."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"Muda tayari ni sahihi"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"Saa ya ndani ya kihalalishaji imerekebishwa kulingana na saa iliyotolewa na seva za Google. "\n" "\n" Tarehe na mipangilio ya Saa katika kifaa hiki hayajabadilishwa."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Muda umesahihishwa"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-sw/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Aina ya msimbo"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Toleo"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"Uthibitishaji wa hatua 2 hulinda akaunti Google yako hata kama nenosiri lako limeibwa."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Maelfu ya akaunti za mtandaoni hutekwa nyara kila siku."</string>
+</resources>

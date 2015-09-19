@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"Tidsbaseret"</item>
+    <item msgid="5212912099902129712">"Tællerbaseret"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Om"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Om"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Tilføj konto"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google Autentificering"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"Autentificering"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Tilføj en konto"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Tilføj konto manuelt"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"Scan stregkode"</string>
+    <string msgid="414120249698283380" name="button_back">"Tilbage"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Afslut"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"Se, hvordan det fungerer"</string>
+    <string msgid="2321252361372851972" name="button_next">"Næste"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Afinstaller"</string>
+    <string msgid="5705561042616477184" name="cancel">"Annuller"</string>
+    <string msgid="8970489904648838257" name="check_code">"For at kontrollere at du har den rette nøgleværdi for <ns1:g id="ACCOUNT">%1$s</ns1:g>, skal du bekræfte, at værdien her matcher integritetskontrolværdien fra serveren: &lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Kontroller nøgleværdi"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Integritetskontrolværdi"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Fjern"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"Kopier til udklipsholder"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Få kode"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"Dine data er blevet importeret fra den forældede udgave af appen Google Autentificering. Det er nu sikkert at afinstallere den tidligere version af appen ved at klikke nedenfor."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Importen er fuldført"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Afkodning af undtagelse"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Angiv kontonavn"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Angiv din nøgle"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"Nøgleværdien indeholder et ugyldigt tegn"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Tilføj"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Manuel angivelse af konto"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"Nøgleværdien er for kort"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Angiv denne bekræftelseskode, hvis du bliver bedt om det under login:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"Tom hemmelig nøgle kan ikke gemmes"</string>
+    <string msgid="9037595140877350695" name="error_exists">"Det navn bruges allerede."</string>
+    <string msgid="1076904454315180481" name="error_qr">"QR-koden kan ikke fortolkes."</string>
+    <string msgid="1784361744549854479" name="error_title">"Fejl"</string>
+    <string msgid="8889749448317216536" name="error_uri">"Nøglen blev ikke genkendt."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Generel sikkerhedsundtagelse"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"Sådan fungerer det"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"Denne app genererer koden, som du skal bruge for at logge ind."</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"Hvis du bruger en ny computer, skal du indtaste en kode fra din telefon."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Men hvis du bruger en ny computer eller enhed, vil Google bede dig om en særlig kode for at sikre, at det virkelig er dig."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"For at logge ind, angiver du din adgangskode."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"Hvis du vælger at huske computeren, beder Google dig ikke om at angive en kode på den computer igen."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Så er du logget ind."</string>
+    <string msgid="5395462228740377795" name="install_button">"Installer"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Du skal installere stregkodescanneren ZXing for at scanne stregkoder, der indeholder nøgler."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Installer stregkodescanner?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Indstillinger"</string>
+    <string msgid="6406800116409689723" name="ok">"OK"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Open source-projekt"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Privatlivspolitik"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Fjern konto"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"Fjernelse af denne konto vil &lt;b>fjerne din mulighed&lt;/b> for at generere koder, men det vil &lt;b>ikke&lt;/b> slå godkendelse via to faktorer fra. Dette kan forhindre dig i at logge ind på din konto. &lt;p> Før fjernelse: &lt;ul> &lt;li>Sluk for godkendelse via to faktorer for denne konto, eller&lt;/li> &lt;li>kontroller, at du har en alternativ mekanisme til generering af koder.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"Vil du fjerne <ns1:g id="ACCOUNT">%1$s</ns1:g>?"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"Fjernelse af denne konto vil &lt;b>fjerne din mulighed&lt;/b> for at generere koder, men det vil &lt;b>ikke&lt;/b> slå godkendelse via to faktorer fra. Dette kan forhindre dig i at logge ind på din konto. &lt;p> Inden du fjerner kontoen: &lt;ul> &lt;li>Slå totrinsbekræftelse fra for denne konto, eller&lt;/li> &lt;li>kontroller, at du har en alternativ metode til at generere koder.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Omdøb"</string>
+    <string msgid="5929955206098259018" name="rename_message">"Omdøb <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Gem nøgle til"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Den hemmelige nøgle er gemt"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Indstillinger"</string>
+    <string msgid="1518558163262431303" name="submit">"Gem"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Servicevilkår"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-da/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Om denne funktion"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Hvis du trykker på &amp;quot;Synkroniser nu&amp;quot;, forsøger Autentificering at synkronisere sit indre ur med Googles servere én gang. Enhedens dato- og tidsindstillinger ændres ikke. &lt;p> Autentificering overfører ikke nogen personlige data eller kontooplysninger, mens dens indre ur synkroniseres med Googles servere. &lt;p> &lt;b>Derfor er dette nyttigt&lt;/b> &lt;p> Autentificering genererer koder til totrinsbekræftelse baseret på 1) den aktuelle tid og 2) et hemmeligt nummer, som appen og serveren kender. &lt;p> Hvis Autentificering og serveren er uenige om, hvad klokken er, accepteres de koder, som appen genererer, muligvis ikke, når du forsøger at logge ind. &lt;p> Autentificering bruger som standard enhedens dato- og tidsindstillinger, og i de fleste tilfælde kan du generere gyldige koder ved at sikre, at dine indstillinger for tid, dato og tidszone er konfigureret korrekt. Når der opstår tidsuoverensstemmelser, kan de imidlertid være svære at fejlfinde (især hvis du bruger netværkets klokkeslæt og tidszoner)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Om denne funktion"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Synkroniser Autentificerings interne ur med Googles servere"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Tidsrettelse for koder"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"Der opstod et problem med at kontakte Googles server. Kontrollér dine netværksindstillingerne, og prøv igen."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Synkroniser nu"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Synkroniser nu"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"Der oprettes forbindelse til serveren..."</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Synkroniser nu"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Synkroniser nu"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"Autentificerings interne ur blev ikke indstillet, fordi det tilsyneladende allerede er synkroniseret med Googles servere."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"Tiden er allerede korrekt"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"Autentificerings indre ur er blevet justeret til at matche den tid, som Googles servere har angivet. "\n\n"Dato- og tidsindstillingerne på denne enhed er ikke blevet ændret."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Tiden blev korrigeret"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-da/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Nøgletype"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Version"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"Totrinsbekræftelse beskytter din Google-konto, selv hvis din adgangskode bliver stjålet."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Tusinder af konti på nettet kapres hver dag."</string>
+</resources>

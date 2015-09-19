@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-zu/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"Kusekwe isikhathi"</item>
+    <item msgid="5212912099902129712">"Okweskwe iKhawunta"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Mayelana"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Mayelana"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Engeza i-akhawunti"</string>
+    <string msgid="5078996080612406301" name="app_name">"Ubufakazi be-Google"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"OkuFakazelayo"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Yengeza i-akhawunti"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Faka ikhawunti ngokwakho"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"Sikena ibhakhodi"</string>
+    <string msgid="414120249698283380" name="button_back">"Emuva"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Phuma"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"Bona ukuthi isebenza kanjani"</string>
+    <string msgid="2321252361372851972" name="button_next">"Okulandelayo"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Khipha"</string>
+    <string msgid="5705561042616477184" name="cancel">"Khansela"</string>
+    <string msgid="8970489904648838257" name="check_code">"Ukuhlola ukuthi unokhiye oyiwo ka-<ns1:g id="ACCOUNT">%1$s</ns1:g> qinisekisa ukuthi ubungakho buhambisana ukuhlola ubuqotho obunikezwa iseva:&lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Bheka ubungako bokhiye"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Integrity check value"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Susa"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"Kopisha ku-clipboard"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Thola ikhodi"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"Imininingwane yakho ilandwe ngempumelelo Ensizeni ye-Google Yokuqinisekisa. Sekuphephile manje ukukhipha uhlobo lwangaphambili lwensiza ngokuthi uchofoze ngezansi."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Ukufaka kuphumelele"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Decoding exception"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Faka igama le-akhawunti"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Faka ukhiye wakho"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"Ubungako bokhiye bunohlamvu olungalungile"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Engeza"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Ukungena ku-akhawunti ngokwakho"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"Ubungako bokhiye bufushane kakhulu"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Faka lekhodi yesiqinisekiso uma utshelwa ngesikhathi ungena ngemvume:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"Ayikwazi ukonga izimfihlko ezingenalutho"</string>
+    <string msgid="9037595140877350695" name="error_exists">"Phephisa, lelo gama selivele liyasetshenziswa."</string>
+    <string msgid="1076904454315180481" name="error_qr">"Ayikwazi ukuhumusha ikhodi ye-QR."</string>
+    <string msgid="1784361744549854479" name="error_title">"Iphutha"</string>
+    <string msgid="8889749448317216536" name="error_uri">"Ukhiye awubonakali."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Okuhlukile okuphepheni okujwayelekile"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"Indlela esebenza ngayo"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"Lolu hlelo lokusebenza lizokwenza ikhodi edingekayo ukuze uqhubeke nokungena ngemvume"</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"Uma ukwikhompyutha entsha, faka ikhodi kusuka efonini yakho."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Yize kunjalo, uma usekhompyutheni noma kwidivaysi entsha, i-Google izokubuza ikhodi ekhethekile ukuqinisekisa ukuthi nguwe ngempela."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"Ukungena, uzofaka iphasiwedi yakho."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"Futhi ungakhetha ukukhumbula ikhompyutha bese i-Google ngeke ikucele ikhodi futhi."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Bese ungenile ngemvume."</string>
+    <string msgid="5395462228740377795" name="install_button">"Faka"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Ukuze ukwazi ukusikena amabhakhodi aphethe izikhiye, kufanele ufake i-ZXing yeskena sebhakhodi."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Kufakwe Okokuhlola Amagabelo Enani?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Izisetho"</string>
+    <string msgid="6406800116409689723" name="ok">"KULUNGILE"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Imisebenzi ye-Open- project"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Inqubomgomo yemfihlo"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Susa i-akhawunti"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"Ukususa le akhawunti kuzo&lt;b>susa amandla akho&lt;/b> okwenza amakhodi, yize kunjalo &lt;b>ngeke&lt;/b> kucime ukugunyazwa kwe-2-factor. Lokhu kungakuvimbela ekungeneni ngemvume ku-akhawunti yakho. &lt;p> Ngaphambi kokususa: &lt;ul> &lt;li>Cima ukugunyazwa kwe-2-factor kwale akhawunti, or&lt;/li> &lt;li>Qinisekisa ukuthi unenye indlela yokwenza amakhodi.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"Susa i-<ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"Ukususa le akhawunti kuzo &lt;b>susa amandla akho&lt;/b> okwenza amakhodi, yize kunjalo, kuzo &lt;b>not&lt;/b> cima ukuqinisekiswa kwe-2-step. Lokhu kungakuvimbela ekungeneni ngemvume ku-akhawunti yakho. &lt;p> Ngaphambi kokususa: &lt;ul> &lt;li>Cima ukuqinisekiswa kwe-2-step kwale akhawunti, or&lt;/li> &lt;li>Qinisekisa ukuthi unenye indlela yokwenza amakhodi.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Qamba kabusha"</string>
+    <string msgid="5929955206098259018" name="rename_message">"Ukunika igama elisha <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Londoloza ukhiye we"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Imfihlo yongiwe"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Izisetho"</string>
+    <string msgid="1518558163262431303" name="submit">"Londoloza"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Imigomo yokusebenzisa"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-zu/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Mayelana nalesi sici"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Uma ucindezela u-&amp;quot;Vumelanisa manje&amp;quot;, i-Authenticator izozama ukuvumelanisa iwashi layo langaphakathi neziphakeli zakwa-Google ngesikhathi esisodwa. Izilungiselelo zosuku nesikhathi zedivayisi ngeke zishintshwe. &lt;p> I-Authenticator ayihambisi noma iyiphi idatha yomuntu siqu noma ulwazi lwe-akhawunti ngenkathi ivumelanisa iwashi layo langaphakathi neziphakeli zakwa-Google. &lt;p> &lt;b>Kungani lokhu kubalulekile&lt;/b> &lt;p> i-Authenticator yenza amakhodi okuqinisekiswa okuyizinyathelo ezimbili ngokususelwa 1) esikhathini samanje, futhi 2) inombolo eyimfihlo eyaziwa ohlelweni lokusebenza nakwisiphakeli. &lt;p> Uma i-Authenticator nesiphakeli ziphikisana ekutheni ubani isikhathi, amakhodi enziwa uhlelo lokusebenza ngeke amukelwe uma uzama ukungena ngemvume. &lt;p> Ngokuzenzakalelayo i-Authenticator isebenzisa izilungiselelo zosuku nesikhathi, futhi ezikhathini eziningi uzokwazi ukwenza amakhodi avumalekile ngokuqinisekisa ukuthi izilungiselelo zakho zesikhathi, usuku nezoni yesikhathi zulungiswe kahle. Yize kunjalo, uma ukungafani kwesikhathi kuvelo, kungabalukhuni ukuxazulula (ikakhulu uma usebenzisa isikhathi noma amazoni esikhathi anikelwa inethiwekhi)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Mayelana nalesi sici"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Vumelanisa iwashi langaphakathi le-Authenticator neziphakeli zakwa-Google"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Ukulungiswa kwesikhathi kwamakhodi"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"Kube nenkinga ngokuxhumana nesiphakeli sakwa-Google. Sicela uhlole izilungiselelo zenethiwekhi yakho bese uyazama futhi."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Vumelanisa manje"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Vumelanisa manje"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"Ixhuma kwisiphakeli…"</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Vumelanisa manje"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Vumelanisa manje"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"Iwashi langaphakathi le-Authenticator lalingalungisiwe ngoba libonakala selivele livumelanisiwe neziphakeli zakwa-Google."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"Isikhathi sivele silungile"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"Iwashi langaphakathi le-Authenticator lilungisiwe ukuze lifane nesikhathi esinikelwe iziphakeli zakwa-Google. "\n\n"Izilungiselelo zosuku nesikhathi kule divayisi azishintshiwe."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Isikhathi silungisiwe"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-zu/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Izinhlobo zokhiye"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Inhlobo"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"Ukuqinisekiswa kwezinyathelo ezingu-2 kuvikela i-akhawunti yakho yakwa-Google ngisho noma iphasiwedi yakho itshontshiwe."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Izinkulungwane zama-akhawunti ku-inthanethi ziyatshontshwa nsuku zonke."</string>
+</resources>

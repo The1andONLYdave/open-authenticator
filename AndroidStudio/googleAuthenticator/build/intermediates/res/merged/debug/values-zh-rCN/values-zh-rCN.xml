@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"基于时间"</item>
+    <item msgid="5212912099902129712">"基于计数器"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"关于"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"关于"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"添加帐户"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google 身份验证器"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"身份验证器"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"添加帐户"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"手动添加帐户"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"扫描条形码"</string>
+    <string msgid="414120249698283380" name="button_back">"上一页"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"退出"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"了解其工作原理"</string>
+    <string msgid="2321252361372851972" name="button_next">"下一页"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"卸载"</string>
+    <string msgid="5705561042616477184" name="cancel">"取消"</string>
+    <string msgid="8970489904648838257" name="check_code">"要检查 <ns1:g id="ACCOUNT">%1$s</ns1:g> 的密钥值是否正确，请验证此处的值是否与服务器提供的完整性校验值一致：&lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"检查密钥值"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"完整性校验值"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"删除"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"复制到剪贴板"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"获取代码"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"已成功从弃用的 Google 身份验证器应用中导入您的数据。现在您可以点击下面的按钮放心地卸载该应用先前的版本。"</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"已成功导入"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"解码异常"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"输入帐户名称"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"输入您的密钥"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"密钥值中含有非法字符"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"添加"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"手动输入帐户"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"密钥值太短"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"在登录帐户期间，如果提示输入验证码，请输入此验证码："</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"无法保存空密钥"</string>
+    <string msgid="9037595140877350695" name="error_exists">"抱歉，此名称已在使用。"</string>
+    <string msgid="1076904454315180481" name="error_qr">"无法解读 QR 码。"</string>
+    <string msgid="1784361744549854479" name="error_title">"错误"</string>
+    <string msgid="8889749448317216536" name="error_uri">"密钥无法识别。"</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"一般安全异常"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"工作原理"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"该应用会生成必要的验证码供您继续登录。"</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"如果您是在新的计算机上登录，请输入通过手机获取的验证码。"</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"但是，如果您是在新的计算机或设备上登录，Google 会要求您输入特殊的验证码来验证您的身份。"</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"要登录帐户，您需要输入密码。"</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"您还可以选择记住该计算机，这样，下次 Google 就不会再要求您在这台计算机上输入验证码了。"</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"然后您就能成功登录了。"</string>
+    <string msgid="5395462228740377795" name="install_button">"安装"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"要扫描包含密钥的条形码，必须安装斑马线条形码扫描器。"</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"要安装条形码扫描器吗？"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"设置"</string>
+    <string msgid="6406800116409689723" name="ok">"确定"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"开放源代码项目"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"隐私权政策"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"删除帐户"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"删除该帐户会&lt;b>导致您无法&lt;/b>生成验证码，但&lt;b>不会&lt;/b>关闭双重身份验证。您可能会因此无法登录自己的帐户。&lt;p>在删除该帐户之前，请执行以下操作：&lt;ul>&lt;li>关闭该帐户的两双重身份验证功能，或者&lt;/li>&lt;li>确保您可以通过其他方法生成验证码。&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"是否删除 <ns1:g id="ACCOUNT">%1$s</ns1:g>？"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"删除该帐户会&lt;b>导致您无法&lt;/b>生成验证码，但&lt;b>不会&lt;/b>关闭两步验证。您可能会因此无法登录自己的帐户。&lt;p>在删除该帐户之前，请执行以下操作：&lt;ul>&lt;li>关闭该帐户的两步验证，或者&lt;/li>&lt;li>确保您可以通过其他方法生成验证码。&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"重命名"</string>
+    <string msgid="5929955206098259018" name="rename_message">"重命名 <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"保存以下帐户的密钥："</string>
+    <string msgid="2201025202465443226" name="secret_saved">"密钥已保存"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"设置"</string>
+    <string msgid="1518558163262431303" name="submit">"保存"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"服务条款"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-zh-rCN/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"关于此功能"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"如果您按下&amp;ldquo;立即同步&amp;rdquo;，身份验证器就会尝试将其内部时钟与 Google 服务器同步一次。设备的日期和时间设置不会更改。&lt;p>与 Google 服务器同步内部时钟时，身份验证器不会传输任何个人数据或帐户信息。&lt;p> &lt;b>这有什么作用&lt;/b> &lt;p>身份验证器需要根据以下信息生成两步验证码：1) 当前时间，2) 该应用与服务器联络时使用的暗号。&lt;p>如果身份验证器和服务器上的时间不一致，那么当您尝试登录时，系统可能不会接受该应用生成的验证码。&lt;p>默认情况下，身份验证器会使用设备的日期和时间设置，因此在大多数情况下，只要您确保您的时间、日期和时区设置配置正确，即可生成有效的验证码。但是，如果确实出现时间不匹配的情况，就很难排查出问题（尤其是当您使用网络提供的时间或时区时）。"</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"关于此功能"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"将身份验证器的内部时钟与 Google 服务器进行同步"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"校正用来生成验证码的时间"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"与 Google 服务器联系时出现问题。请检查您的网络设置，然后重试。"</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"立即同步"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"立即同步"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"正在连接服务器…"</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"立即同步"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"立即同步"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"身份验证器的内部时钟未作调整，因为该时钟已经与 Google 服务器同步。"</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"时间已正确"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"身份验证器的内部时钟已按照 Google 服务器提供的时间进行调整。"\n\n"此设备上的日期和时间设置未更改。"</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"时间已校正"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"密钥类型"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"版本"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"即使您的密码被盗，两步验证也能保护您的 Google 帐户。"</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"每天都有数千个在线帐户被盗用。"</string>
+</resources>

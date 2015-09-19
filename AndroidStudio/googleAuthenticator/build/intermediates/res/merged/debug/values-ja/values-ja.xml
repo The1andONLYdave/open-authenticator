@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"時間ベース"</item>
+    <item msgid="5212912099902129712">"カウンタベース"</item>
+  </string-array>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/build/intermediates/exploded-aar/Google-Authenticator-new-Android-Studio-compatible/smartExtensionUtils/unspecified/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <dimen name="headset_pro_text_size">16px</dimen>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Google認証システムについて"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Google認証システムについて"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"アカウントを追加"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google認証システム"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"認証システム"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"アカウントを追加"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"アカウントを手動で追加"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"バーコードをスキャン"</string>
+    <string msgid="414120249698283380" name="button_back">"戻る"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"終了"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"仕組みについて"</string>
+    <string msgid="2321252361372851972" name="button_next">"次へ"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"アンインストール"</string>
+    <string msgid="5705561042616477184" name="cancel">"キャンセル"</string>
+    <string msgid="8970489904648838257" name="check_code">"<ns1:g id="ACCOUNT">%1$s</ns1:g>のキー値が正しいことを確認するには、サーバーから受け取った完全性チェック値と、ここに表示されている値とが一致していることを確認してください:&lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"キーの値を確認"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"完全性チェック値"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"削除"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"クリップボードにコピー"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"コードを取得"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"廃止予定のGoogle認証システムアプリからのデータインポートが完了しました。古いバージョンのアプリをアンインストールしても問題ありません。アンインストールするには、下のボタンをクリックしてください。"</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"インポート完了"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"デコード例外"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"アカウント名を入力"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"キーをここに入力"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"キーの値に無効な文字が入力されています"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"追加"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"アカウントを手動で入力"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"キーの値が短すぎます"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"アカウントへのログイン時に確認コードの入力を求められたら、このコードを入力してください:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"空のシークレットは保存できません"</string>
+    <string msgid="9037595140877350695" name="error_exists">"その名前は既に使用されています。"</string>
+    <string msgid="1076904454315180481" name="error_qr">"QRコードを解釈できません。"</string>
+    <string msgid="1784361744549854479" name="error_title">"エラー"</string>
+    <string msgid="8889749448317216536" name="error_uri">"キーを認識できません。"</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"一般セキュリティ例外"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"仕組み"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"このアプリはログインに必要なコードを生成します。"</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"新しいパソコンを使用している場合は、携帯端末で生成されたコードを入力してください。"</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"ただし、新しいパソコンや端末をご利用の場合は、本人確認に必要な確認コードの入力が求められます。"</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"ログインするには、パスワードを入力します。"</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"パソコンにコードを保存し、次回から入力を省略することもできます。"</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"これでログインできます。"</string>
+    <string msgid="5395462228740377795" name="install_button">"インストール"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"キーが含まれるバーコードをスキャンするには、ZXingバーコードリーダーをインストールする必要があります。"</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"バーコードリーダーをインストールしますか？"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"設定"</string>
+    <string msgid="6406800116409689723" name="ok">"OK"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"オープンソースプロジェクト"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"プライバシーポリシー"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"アカウントを削除"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"このアカウントを削除するとコード&lt;b>生成機能も削除&lt;/b>されますが、2要素認証プロセスはオフに&lt;b>なりません&lt;/b>。このため、アカウントにログインできなくなる場合があります。&lt;p> 削除する前に次のことを行ってください: &lt;ul> &lt;li>このアカウントの2要素認証プロセスをオフにする、または&lt;/li> &lt;li>コードを生成する別の手段を確保する&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"<ns1:g id="ACCOUNT">%1$s</ns1:g>を削除しますか？"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"このアカウントを削除するとコード&lt;b>生成機能も削除&lt;/b>されますが、2段階認証プロセスはオフに&lt;b>なりません&lt;/b>。このため、アカウントにログインできなくなる場合があります。&lt;p> 削除する前に次のことを行ってください: &lt;ul> &lt;li>このアカウントの2段階認証プロセスをオフにする&lt;/li> &lt;li>コードを生成する別の手段を確保する&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"名前を変更"</string>
+    <string msgid="5929955206098259018" name="rename_message">"<ns1:g id="ACCOUNT">%1$s</ns1:g>の名前を変更"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"キーを保存:"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"シークレットを保存しました"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"設定"</string>
+    <string msgid="1518558163262431303" name="submit">"保存"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"利用規約"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ja/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"この機能について"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"[今すぐ同期]をタップすると、認証システムの内部クロックとGoogleサーバーとの同期が一度行われます。端末の日付/時刻設定は変更されません。&lt;p> 内部クロックとGoogleサーバーの同期中に、認証システムから個人データやアカウント情報が送信されることはありません。&lt;p> &lt;b>同期を行う理由&lt;/b> &lt;p> 認証システムでは、1）現在の時刻および2）アプリとサーバーが認識できる秘密の番号に基づいて2段階認証プロセスの確認コードを生成します。&lt;p> 認証システムの時刻とサーバーの時刻が異なると、アプリによって生成されたコードがログイン時に承認されないことがあります。&lt;p> 認証システムはデフォルトでは端末の日付/時刻設定を使用しますが、日付、時刻、タイムゾーンが正しく設定されていればほとんどの場合は有効なコードが生成されます。ただし、時刻の不一致が発生した場合（特にネットワークの時刻やタイムゾーンを使用した場合）は、トラブルシューティングが難しくなる可能性があります。"</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"この機能について"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"認証システムの内部クロックをGoogleサーバーと同期させます"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"コードの時刻調整"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"Googleのサーバーとの接続に問題が発生しました。ネットワーク設定を確認してもう一度お試しください。"</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"今すぐ同期"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"今すぐ同期"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"サーバーに接続中..."</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"今すぐ同期"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"今すぐ同期"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"認証システムの内部クロックは調整されませんでした。既にGoogleサーバーと同期済みです。"</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"時刻は調整済みです"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"認証システムの内部クロックがGoogleサーバーの時刻に合わせて調整されました。"\n\n"この端末の日付/時刻設定は変更されていません。"</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"時刻を調整しました"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"キーの種類"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"バージョン"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"2段階認証プロセスは、パスワードが盗まれた場合でもGoogleアカウントを保護します。"</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"毎日多数のオンラインアカウントが不正使用されています。"</string>
+</resources>

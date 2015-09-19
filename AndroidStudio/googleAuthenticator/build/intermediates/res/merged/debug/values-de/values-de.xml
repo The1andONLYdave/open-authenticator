@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"Zeitbasiert"</item>
+    <item msgid="5212912099902129712">"Zählerbasiert"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Über die App"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Über"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Konto hinzufügen"</string>
+    <string msgid="5078996080612406301" name="app_name">"Open Authenticator Pro"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"Open Authenticator"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Konto hinzufügen"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Konto manuell hinzufügen"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"QR-Code scannen"</string>
+    <string msgid="414120249698283380" name="button_back">"Zurück"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Beenden"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"So funktioniert\'s"</string>
+    <string msgid="2321252361372851972" name="button_next">"Weiter"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Deinstallieren"</string>
+    <string msgid="5705561042616477184" name="cancel">"Abbrechen"</string>
+    <string msgid="8970489904648838257" name="check_code">"Überprüfen Sie, ob der Schlüsselwert für <ns1:g id="ACCOUNT">%1$s</ns1:g> richtig ist. Der hier angegebene Wert muss mit dem vom Server bereitgestellten Integritätsprüfungswert übereinstimmen:&lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Schlüsselwert überprüfen"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Integritätsprüfungswert"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Entfernen"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"In Zwischenablage kopieren"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Code anfordern"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"Ihre Daten wurden aus der veralteten Google Authenticator-App importiert. Sie können jetzt durch Klicken auf die Schaltfläche unten die Vorgängerversion der App deinstallieren."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Import abgeschlossen"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Decodierungsausnahme"</string>
+    <string name="donate_preference_title">"Spenden"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Kontonamen eingeben"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Schlüssel eingeben"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"Der Schlüsselwert enthält ungültige Zeichen."</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Hinzu"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Manuelle Kontoeingabe"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"Schlüsselwert ist zu kurz."</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Geben Sie bei der Kontoanmeldung folgenden Bestätigungscode ein:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"Leerer geheimer Schlüssel kann nicht gespeichert werden."</string>
+    <string msgid="9037595140877350695" name="error_exists">"Dieser Name wird bereits verwendet."</string>
+    <string msgid="1076904454315180481" name="error_qr">"QR-Code kann nicht ausgewertet werden."</string>
+    <string msgid="1784361744549854479" name="error_title">"Fehler"</string>
+    <string msgid="8889749448317216536" name="error_uri">"Schlüssel wurde nicht erkannt."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Allgemeine Sicherheitsausnahme"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"So funktioniert\'s"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"Der für die Anmeldung erforderliche Code wird dann von der App generiert."</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"Falls Sie einen neuen Computer nutzen, geben Sie einen Code von Ihrem Telefon ein."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Wenn Sie allerdings einen neuen Computer oder ein neues Gerät verwenden, fordert Google Sie zur Eingabe eines speziellen Codes auf, damit Sie identifiziert werden können."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"Geben Sie zur Anmeldung Ihr Passwort ein."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"Wenn Sie festlegen, dass der Code für diesen Computer gespeichert werden soll, müssen Sie ihn nicht mehr eingeben."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Dann sind Sie angemeldet."</string>
+    <string msgid="5395462228740377795" name="install_button">"Installieren"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Zum Scannen von Barcodes mit Schlüsseln müssen Sie den ZXing-Barcode-Scanner installieren."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Barcode-Scanner installieren?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Einstellungen"</string>
+    <string msgid="6406800116409689723" name="ok">"OK"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Open-Source-Projekt"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Datenschutzerklärung"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Konto entfernen"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"Wenn Sie dieses Konto entfernen, können Sie &lt;b>keine Codes mehr generieren&lt;/b>, die Bestätigung in zwei Schritten wird jedoch &lt;b>nicht&lt;/b> deaktiviert. Sie können sich dann möglicherweise nicht mehr in Ihrem Konto anmelden. &lt;p> Vor dem Entfernen: &lt;ul> &lt;li>Deaktivieren Sie die Bestätigung in zwei Schritten für dieses Konto oder&lt;/li> &lt;li>Stellen Sie sicher, dass Sie auf andere Weise Codes generieren können.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"<ns1:g id="ACCOUNT">%1$s</ns1:g> entfernen?"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"Wenn Sie dieses Konto entfernen, können Sie &lt;b>keine Codes mehr generieren&lt;/b>, die Bestätigung in zwei Schritten wird jedoch &lt;b>nicht&lt;/b> deaktiviert. Sie können sich dann möglicherweise nicht mehr in Ihrem Konto anmelden. &lt;p> Vor dem Entfernen: &lt;ul> &lt;li>Deaktivieren Sie die Bestätigung in zwei Schritten für dieses Konto oder&lt;/li> &lt;li>Stellen Sie sicher, dass Sie auf andere Weise Codes generieren können.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Umbenennen"</string>
+    <string msgid="5929955206098259018" name="rename_message">"<ns1:g id="ACCOUNT">%1$s</ns1:g> umbenennen"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Schlüssel speichern für"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Geheimer Schlüssel gespeichert"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Einstellungen"</string>
+    <string msgid="1518558163262431303" name="submit">"Speichern"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Nutzungsbedingungen"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-de/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Über diese Funktion"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Wenn Sie &amp;quot;Jetzt synchronisieren&amp;quot; drücken, versucht Authenticator ein Mal, die interne Uhr mit Google-Servern zu synchronisieren. Die Datums- und Uhrzeiteinstellungen des Geräts bleiben unverändert. &lt;p> Bei der Synchronisierung der internen Uhr mit Google-Servern überträgt Authenticator keine personenbezogenen Daten oder Kontoinformationen. &lt;p> &lt;b>Warum ist das nützlich?&lt;/b> &lt;p> Authenticator generiert Codes für die Bestätigung in zwei Schritten auf Grundlage 1.) der aktuellen Uhrzeit und 2.) einer geheimen Nummer, die der App und dem Server bekannt ist. &lt;p> Falls die Zeiten von Authenticator und Server nicht übereinstimmen, werden die von der App generierten Codes eventuell beim Anmelden nicht akzeptiert. &lt;p> Standardmäßig verwendet Authenticator die Datums- und Uhrzeiteinstellungen des Geräts, und in den meisten Fällen können Sie gültige Codes generieren, indem Sie sicherstellen, dass Ihre Einstellungen für Uhrzeit, Datum und Zeitzone richtig konfiguriert sind. Wenn jedoch Abweichungen bei der Zeit auftreten, sind sie möglicherweise nur schwer zu beheben (insbesondere, falls Sie die Uhrzeit bzw. die Zeitzonen verwenden, die vom Netzwerk bereitgestellt werden)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Über diese Funktion"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Interne Uhr von Authenticator mit Google-Servern synchronisieren"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Zeitkorrektur für Codes"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"Es gab ein Problem beim Kontaktieren des Google-Servers. Bitte überprüfen Sie Ihre Netzwerkeinstellungen und versuchen Sie es erneut."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Jetzt synchronisieren"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Jetzt synchronisieren"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"Die Verbindung zum Server wird hergestellt…"</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Jetzt synchronisieren"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Jetzt synchronisieren"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"Die interne Uhr von Authenticator wurde nicht angepasst, da sie offenbar bereits mit Google-Servern synchron ist."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"Zeit bereits richtig"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"Die interne Uhr von Authenticator wurde an die von Google-Servern bereitgestellte Zeit angepasst. "\n\n"Die Datums- und Uhrzeiteinstellungen auf diesem Gerät wurden nicht geändert."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Zeit korrigiert"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Schlüsseltyp"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Version"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"Die Bestätigung in zwei Schritten schützt Ihr Google-Konto selbst dann, wenn jemand Ihr Passwort herausfindet."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Täglich werden Tausende von Online-Konten gehackt"</string>
+</resources>

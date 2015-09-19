@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Google-Authenticator-new-Android-Studio-compatible.iml" filepath="$PROJECT_DIR$/Google-Authenticator-new-Android-Studio-compatible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleAuthenticator/googleAuthenticator.iml" filepath="$PROJECT_DIR$/googleAuthenticator/googleAuthenticator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartExtensionAPI/smartExtensionAPI.iml" filepath="$PROJECT_DIR$/smartExtensionAPI/smartExtensionAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartExtensionUtils/smartExtensionUtils.iml" filepath="$PROJECT_DIR$/smartExtensionUtils/smartExtensionUtils.iml" />
+    </modules>
+  </component>
+</project>

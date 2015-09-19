@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"По времени"</item>
+    <item msgid="5212912099902129712">"По счетчику"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"О приложении"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"О приложении"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Добавить аккаунт"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google Authenticator"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"Authenticator"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Добавить аккаунт"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Добавить аккаунт вручную"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"Сканировать штрихкод"</string>
+    <string msgid="414120249698283380" name="button_back">"Назад"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Выход"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"Как это работает"</string>
+    <string msgid="2321252361372851972" name="button_next">"След."</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Удалить"</string>
+    <string msgid="5705561042616477184" name="cancel">"Отмена"</string>
+    <string msgid="8970489904648838257" name="check_code">"Чтобы проверить правильность ключа аккаунта <ns1:g id="ACCOUNT">%1$s</ns1:g>, сравните его с полученным от сервера значением проверки целостности: &lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Проверить значение ключа"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Проверка ключа"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Удалить"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"Копировать"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Получить код"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"Данные успешно импортированы из устаревшей версии Google Authenticator. Теперь ее можно удалить."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Импорт завершен"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Исключение декодирования"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Введите название аккаунта"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Введите ключ"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"В коде указан недопустимый символ"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Добавить"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Ввод аккаунта вручную"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"Слишком короткое значение ключа"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Введите этот код при входе в аккаунт:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"Пустой секретный ключ сохранить нельзя"</string>
+    <string msgid="9037595140877350695" name="error_exists">"Это название занято другим пользователем."</string>
+    <string msgid="1076904454315180481" name="error_qr">"Распознать QR-код не удалось."</string>
+    <string msgid="1784361744549854479" name="error_title">"Ошибка"</string>
+    <string msgid="8889749448317216536" name="error_uri">"Не удалось распознать ключ."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Общее исключение безопасности"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"Как это работает"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"С помощью этого приложения вы будете получать коды, необходимые для входа в аккаунт."</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"На незнакомых компьютерах потребуется вводить код, полученный с помощью телефона."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Если вы будете входить в аккаунт с незнакомого компьютера или устройства, вам потребуется подтвердить свою личность, введя специальный код."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"Чтобы войти в аккаунт, вы будете указывать пароль."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"Если сохранить в Google данные об этом компьютере, при входе в аккаунт с его помощью код требоваться не будет."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Вы выполнили вход"</string>
+    <string msgid="5395462228740377795" name="install_button">"Установить"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Для сканирования штрихкодов ключей нужно установить ZXing."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Установить сканер штрихкода?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Настройки"</string>
+    <string msgid="6406800116409689723" name="ok">"ОК"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Открытый исходный код"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Конфиденциальность"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Удалить аккаунт"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"После удаления этого аккаунта генерировать коды будет &lt;b>невозможно&lt;/b>. Однако при этом двухфакторная аутентификация &lt;b>останется включенной&lt;/b>. В дальнейшем это может послужить препятствием для входа в ваш аккаунт. &lt;p> Перед удалением необходимо: &lt;ul> &lt;li>отключить двухфакторную аутентификацию для этого аккаунта или&lt;/li> &lt;li>найти альтернативный способ генерирования кодов.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"Удалить <ns1:g id="ACCOUNT">%1$s</ns1:g>?"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"После удаления этого аккаунта генерировать коды будет &lt;b>невозможно&lt;/b>. Однако при этом двухэтапная аутентификация &lt;b>останется включенной&lt;/b>. В дальнейшем это может послужить препятствием для входа в ваш аккаунт. &lt;p> Перед удалением необходимо: &lt;ul> &lt;li>отключить двухэтапную аутентификацию для этого аккаунта или&lt;/li> &lt;li>найти альтернативный способ генерирования кодов.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Переименовать"</string>
+    <string msgid="5929955206098259018" name="rename_message">"Переименование <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Сохранить ключ"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Секретный ключ сохранен"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Настройки"</string>
+    <string msgid="1518558163262431303" name="submit">"Сохранить"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Условия использования"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ru/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Об этой функции"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Если нажать кнопку " Синхронизировать", Authenticator попробует привести свое внутреннее время в соответствие с серверами Google. Настройки даты и времени устройства при этом изменены не будут. &lt;p> Приложение не отправит нам или третьим лицам ваши личные сведения или данные вашего аккаунта. &lt;p> &lt;b> Почему это следует сделать &lt;/b> &lt;p> Authenticator генерирует коды двухэтапной аутентификации на основе 1) текущего времени и 2) секретного номера, известного приложению и серверу. &lt;p> Если время в Authenticator и на сервере будет отличаться, созданные коды окажутся недействительными. &lt;p> По умолчанию в Authenticator используются дата и время, установленные на устройстве. Если эти настройки верны, в большинстве случаев их оказывается достаточно для генерации действительных кодов. Если же время на устройстве и сервере не совпадает, могут возникнуть проблемы, которые не так просто устранить (особенно если вы получаете настройки времени и часового пояса с какого-либо стороннего сервера)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Об этой функции"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Синхронизация внутренних часов Authenticator с серверами Google"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Коррекция времени для кодов"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"Произошла ошибка при попытке установить связь с сервером Google. Проверьте настройки сети и повторите попытку."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Синхронизация"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Синхронизировать"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"Подключение к серверу..."</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Синхронизация"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Синхронизация"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"Внутренние часы Authenticator уже были синхронизированы с серверами Google, поэтому настройки оставлены без изменений."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"Установленное время является точным"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"Внутренние часы Authenticator были настроены в соответствии со временем на серверах Google. "\n\n"Настройки на этом устройстве не были изменены."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Время исправлено"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Тип ключа"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Версия"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"Благодаря двухэтапной аутентификации ваш аккаунт Google будет в безопасности, даже если злоумышленники узнают его пароль."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Ежедневно взламываются тысячи аккаунтов."</string>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ca/strings.xml -->
+    <eat-comment/>
+    <string-array name="type">
+    <item msgid="7456778849112065121">"Basada en temps"</item>
+    <item msgid="5212912099902129712">"Basada en comptador"</item>
+  </string-array>
+    <string msgid="8056864904503664711" name="about_preference_screen_title">"Quant a"</string>
+    <string msgid="2797539814683187124" name="about_preference_title">"Quant a"</string>
+    <string msgid="6422163385921921789" name="add_account_menu_item">"Afegeix un compte"</string>
+    <string msgid="5078996080612406301" name="app_name">"Google Authenticator"</string>
+    <string msgid="6268465073167241020" name="app_name_short">"Authenticator"</string>
+    <string msgid="4301500554118934829" name="button_add_account">"Afegeix un compte"</string>
+    <string msgid="7234157710472604378" name="button_add_account_manual_entry">"Afegeix un compte manualment"</string>
+    <string msgid="4400516455038574606" name="button_add_account_scan_barcode">"Escaneja un codi de barres"</string>
+    <string msgid="414120249698283380" name="button_back">"Enrere"</string>
+    <string msgid="6789714209015077393" name="button_exit_howitworks_flow">"Surt"</string>
+    <string msgid="5576563994507351533" name="button_how_it_works">"Mostra com funciona"</string>
+    <string msgid="2321252361372851972" name="button_next">"Següent"</string>
+    <string msgid="425412851508359894" name="button_uninstall_old_app">"Desinstal·la"</string>
+    <string msgid="5705561042616477184" name="cancel">"Cancel·la"</string>
+    <string msgid="8970489904648838257" name="check_code">"Per comprovar que el valor de clau del compte <ns1:g id="ACCOUNT">%1$s</ns1:g> és correcte, comproveu que aquest valor coincideixi amb el valor de comprovació d’integritat proporcionat pel servidor:&lt;br/>"</string>
+    <string msgid="6851230890695316742" name="check_code_menu_item">"Comprova el valor de clau"</string>
+    <string msgid="6308604727562833139" name="check_code_title">"Valor de comprovació"</string>
+    <string msgid="2776049374428247354" name="context_menu_remove_account">"Elimina"</string>
+    <string msgid="9220543434521756454" name="copy_to_clipboard">"Copia al porta-retalls"</string>
+    <string msgid="6520222181829297474" name="counter_pin">"Obtén codi"</string>
+    <string msgid="4298949858655509063" name="dataimport_import_succeeded_uninstall_dialog_prompt">"S\'han importat correctament les vostres dades de l\'aplicació obsoleta de Google Authenticator. Ara podeu desinstal·lar la versió anterior de l\'aplicació si feu clic a continuació."</string>
+    <string msgid="6215126097026112170" name="dataimport_import_succeeded_uninstall_dialog_title">"Importació correcta"</string>
+    <string msgid="7778970130063776199" name="decoding_exception">"Excepció de descodificació"</string>
+    <string msgid="2123950169339395812" name="empty_pin">"_ _ _ _ _ _"</string>
+    <string msgid="1488259241384211529" name="enter_account_label">"Introduïu el nom del compte"</string>
+    <string msgid="480564521423532185" name="enter_key_hint">"Introduïu la clau"</string>
+    <string msgid="5667180343359002748" name="enter_key_illegal_char">"El valor de clau té un caràcter no admès"</string>
+    <string msgid="7145413404890383746" name="enter_key_page_add_button">"Afegeix"</string>
+    <string msgid="3762128630776563361" name="enter_key_title">"Entrada de compte manual"</string>
+    <string msgid="1883571748860519725" name="enter_key_too_short">"El valor de clau és massa curt"</string>
+    <string msgid="2238539410253130912" name="enter_pin">"Introduïu aquest codi de verificació si se us demana durant l\'inici de sessió al compte:"</string>
+    <string msgid="1889970426144134666" name="error_empty_secret">"No es pot desar un secret buit"</string>
+    <string msgid="9037595140877350695" name="error_exists">"El nom ja està en ús."</string>
+    <string msgid="1076904454315180481" name="error_qr">"No es pot interpretar el codi QR."</string>
+    <string msgid="1784361744549854479" name="error_title">"Error"</string>
+    <string msgid="8889749448317216536" name="error_uri">"No es reconeix la clau."</string>
+    <string msgid="2356961798953009046" name="general_security_exception">"Excepció de seguretat general"</string>
+    <string msgid="7162080619184257276" name="how_it_works_menu_item">"Com funciona"</string>
+    <string msgid="2285856515167753320" name="howitworks_page_enter_code_details">"Aquesta aplicació generarà el codi necessari per continuar amb l\'inici de sessió."</string>
+    <string msgid="8720355376154774463" name="howitworks_page_enter_code_title">"Si esteu en un equip nou, introduïu un codi des del telèfon."</string>
+    <string msgid="1637264390208452667" name="howitworks_page_enter_password_details">"Ara bé, si sou en un equip o dispositiu diferent, Google us demanarà un codi especial per verificar la vostra identitat."</string>
+    <string msgid="2162365548375599624" name="howitworks_page_enter_password_title">"Per iniciar la sessió, introduireu la vostra contrasenya."</string>
+    <string msgid="9198940182976285367" name="howitworks_page_verify_device_details">"També podeu optar per recordar l\'equip, i Google no us tornarà a demanar el codi."</string>
+    <string msgid="8577354518261339174" name="howitworks_page_verify_device_title">"Ja heu iniciat la sessió."</string>
+    <string msgid="5395462228740377795" name="install_button">"Instal·la"</string>
+    <string msgid="4701150232869547399" name="install_dialog_message">"Per explorar codis de barres que continguin claus, heu d\'instal·lar l\'explorador de codis de barres de ZXing."</string>
+    <string msgid="6389833865110438047" name="install_dialog_title">"Instal·lació de l\'escàner de codi de barres?"</string>
+    <string msgid="5971154576421128196" name="main_preference_screen_title">"Configuració"</string>
+    <string msgid="6406800116409689723" name="ok">"D\'acord"</string>
+    <string msgid="9222719496327822081" name="opensource_preference_title">"Projecte de codi obert"</string>
+    <string msgid="5170441521661957179" name="privacy_preference_title">"Política de privadesa"</string>
+    <string msgid="1115752492175745669" name="remove_account_dialog_button_remove">"Elimina el compte"</string>
+    <string msgid="5152134907192755352" name="remove_account_dialog_message">"Si elimineu aquest compte, perdreu la capacitat&lt;/b> de generar codis; tot i això, &lt;b>no&lt;/b> es desactivarà l\'autenticació de dos factors. Això pot evitar que algú iniciï la sessió al vostre compte. &lt;p> Abans d\'eliminar-lo: &lt;ul> &lt;li>Desactiveu l\'autenticació de dos factors per a aquest compte o bé&lt;/li> &lt;li>assegureu-vos que disposeu d\'un mecanisme alternatiu per generar codis.&lt;/li> &lt;/ul>"</string>
+    <string msgid="3627142692332624397" name="remove_account_dialog_title">"Voleu eliminar <ns1:g id="ACCOUNT">%1$s</ns1:g>?"</string>
+    <string msgid="5734774722876234898" name="remove_google_account_dialog_message">"Si elimineu aquest compte, perdreu la capacitat&lt;/b> de generar codis; tot i això,  &lt;b>no&lt;/b> es desactivarà la verificació en dos passos. Això pot evitar que algú iniciï la sessió al vostre compte. &lt;p> Abans d\'eliminar-lo: &lt;ul> &lt;li>Desactiveu la verificació en dos passos per a aquest compte o bé&lt;/li> &lt;li>assegureu-vos que disposeu d\'un mecanisme alternatiu per generar codis.&lt;/li> &lt;/ul>"</string>
+    <string msgid="4407492613148938173" name="rename">"Canvia el nom"</string>
+    <string msgid="5929955206098259018" name="rename_message">"Canvia el nom <ns1:g id="ACCOUNT">%1$s</ns1:g>"</string>
+    <string msgid="4427138629791380096" name="save_key_message">"Desa la clau per a"</string>
+    <string msgid="2201025202465443226" name="secret_saved">"Secret desat"</string>
+    <string msgid="3175383868365284896" name="settings_menu_item">"Configuració"</string>
+    <string msgid="1518558163262431303" name="submit">"Desa"</string>
+    <string msgid="2016562579825643136" name="terms_preference_title">"Condicions d\'ús"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ca/timesync_strings.xml -->
+    <eat-comment/>
+    <string msgid="8398618989030576453" name="timesync_about_feature_preference_title">"Sobre aquesta funció"</string>
+    <string msgid="1484703765964566915" name="timesync_about_feature_screen_details">"Si premeu &amp;quot;Sincronitza ara&amp;quot;, Authenticator provarà de sincronitzar el rellotge intern amb els servidors de Google. La configuració de data i hora del dispositiu no canviarà. &lt;p> Authenticator no transmet dades personals ni informació del compte durant la sincronització del seu rellotge intern amb els servidors de Google. &lt;p> &lt;b>Utilitat de la sincronització&lt;/b> &lt;p> Authenticator genera codis de verificació en dos passos que es basen en 1) l\'hora actual i 2) un número secret que coneixen l\'aplicació i el servidor. &lt;p> Si Authenticator i el servidor no estan d\'acord en l\'hora que és, és possible que no s\'acceptin els codis que generi l\'aplicació quan proveu d\'iniciar la sessió. &lt;p> De manera predeterminada, Authenticator fa servir la configuració de data i hora del dispositiu i, en la majoria de casos, podreu generar codis vàlids si us assegureu que la configuració d\'hora, de data i de zona horària és la correcta. De totes maneres, quan es produeixen problemes deguts a incoherències, és possible que costi resoldre\'ls (especialment si feu servir hores o zones horàries proporcionades per la xarxa)."</string>
+    <string msgid="8248453942850581677" name="timesync_about_feature_screen_title">"Sobre aquesta funció"</string>
+    <string msgid="4761393049788324525" name="timesync_preference_screen_summary">"Sincronitza el rellotge intern d\'Authenticator amb els servidors de Google"</string>
+    <string msgid="3022961447302189451" name="timesync_preference_screen_title">"Correcció d\'hora per als codis"</string>
+    <string msgid="7427576990969917093" name="timesync_sync_now_connectivity_error_dialog_details">"S\'ha produït un problema en contactar amb el servidor de Google. Comproveu la configuració de la xarxa i torneu-ho a provar."</string>
+    <string msgid="3173165623567050563" name="timesync_sync_now_connectivity_error_dialog_title">"Sincronitza ara"</string>
+    <string msgid="3082679345742875442" name="timesync_sync_now_preference_title">"Sincronitza ara"</string>
+    <string msgid="307085676112612197" name="timesync_sync_now_progress_dialog_details">"S\'està connectant amb el servidor…"</string>
+    <string msgid="7008645503609657769" name="timesync_sync_now_progress_dialog_title">"Sincronitza ara"</string>
+    <string msgid="3545642903720968544" name="timesync_sync_now_screen_title">"Sincronitza ara"</string>
+    <string msgid="1783578393804196806" name="timesync_sync_now_time_already_correct_dialog_details">"El rellotge intern d\'Authenticator no s\'ha ajustat perquè sembla que ja està sincronitzat amb els servidors de Google."</string>
+    <string msgid="4771431037030124374" name="timesync_sync_now_time_already_correct_dialog_title">"L\'hora ja és correcta"</string>
+    <string msgid="8542304823376488491" name="timesync_sync_now_time_corrected_dialog_details">"El rellotge intern d\'Authenticator s\'ha ajustat perquè coincideixi amb l\'hora proporcionada pels servidors de Google. "\n\n"La configuració de data i hora d\'aquest dispositiu no s\'ha canviat."</string>
+    <string msgid="556836185362910715" name="timesync_sync_now_time_corrected_dialog_title">"Hora corregida"</string>
+    <!-- From: file:/C:/Users/Dell/Documents/GitHub/google-auth-smart-watch/Google-Authenticator-new-Android-Studio-compatible/googleAuthenticator/src/main/res/values-ca/strings.xml -->
+    <eat-comment/>
+    <string msgid="5595994960218859859" name="type_prompt">"Tipus de clau"</string>
+    <string msgid="5388130414499892219" name="version_preference_title">"Versió"</string>
+    <string msgid="3484579068463805365" name="welcome_page_details">"La verificació en dos passos protegeix el vostre compte de Google encara que us robin la contrasenya."</string>
+    <string msgid="1597640810952332788" name="welcome_page_title">"Cada dia es pirategen milers de comptes en línia."</string>
+</resources>
